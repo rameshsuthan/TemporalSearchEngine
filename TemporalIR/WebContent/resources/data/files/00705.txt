@@ -1,0 +1,16 @@
+PREVENTING TRANSMISSION — Several concurrent strategies should be employed to prevent the spread of Ebola virus. Strict infection control measures and the proper use of personal protective equipment are essential to prevent transmission to healthcare workers. In addition, individuals who have been exposed to Ebola virus should be monitored, so that they can be identified quickly if signs and symptoms develop. Other preventive measures may eventually include vaccination. However, at present, there are no approved vaccines to prevent Ebola virus disease.
+
+Infection control precautions — When caring for patients with confirmed or suspected Ebola virus disease, health care personnel should follow infection prevention and control recommendations from the United States Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) [63,64]. These guidelines provide a detailed review of the infection control measures needed to manage patients who are known or suspected to be infected with Ebola virus or other highly pathogenic agents.
+
+Recommendations include isolation of hospitalized patients with known or suspected Ebola virus disease; proper hand hygiene; the use of standard, contact, and droplet precautions; and the correct use of appropriate personal protective equipment (PPE). If possible, aerosol-generating procedures should be avoided, but if they must be performed, patients should be placed in an airborne infection isolation room [65].
+
+The type of PPE used, and its careful placement (donning) and removal (doffing), are critical to prevent nosocomial transmission of Ebola virus. During the 2014-15 outbreak in West Africa, several patients have been cared for in the United States. The staff at Emory University used full body suits and powered air-purifying respirators (PAPR) to help staff work for extended periods, decrease the physical discomfort of working in multi-component PPE, and avoid difficulties such as fogged face shields [9,66]. The donning and doffing of PPE was always observed by another staff member.
+
+The CDC and the WHO have issued detailed guidelines on the use of PPE for managing patients with suspected or confirmed Ebola virus disease [24,67-69]. Clinicians should refer to these guidelines when caring for patients. The CDC has also released a video that demonstrates donning and doffing of PPE.
+
+Highlights from these guidelines include the following:
+
+●Rigorous and repeated training of healthcare workers in correct donning and doffing of PPE.
+●The type of PPE used by healthcare workers should cover all skin. Such PPE includes double gloves, boot covers, fluid-resistant gowns or coveralls, single-use disposable hoods that cover the head and neck, single-use disposable full face shields, and PAPR or N95 respirators. Additional measures, such as waterproof aprons, may also be required, depending upon the patient's symptoms. The combination of PPE used should be determined by the healthcare facility providing care.
+●Healthcare workers should perform frequent disinfection of gloved hands using an alcohol-based hand rub, particularly after touching body fluids. In addition, they should immediately disinfect any visibly contaminated PPE using approved disinfectant wipes.
+●A trained monitor should actively observe and supervise each worker donning and doffing PPE.

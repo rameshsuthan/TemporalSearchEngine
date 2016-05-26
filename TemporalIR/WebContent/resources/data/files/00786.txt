@@ -1,0 +1,8 @@
+Background
+In 2010, Brazil recorded 3343,599 cases of malaria, with 99.6% of them concentrated in the Amazon region. Plasmodium vivax accounts for 86% of the cases circulating in the country. The extra-Amazonian region, where transmission does not occur, recorded about 566 cases imported from the Amazonian area in Brazil and South America, from Central America, Asia and African countries. Prolonged incubation periods have been described for P. vivax malaria in temperate climates. The diversity in essential biological characteristics is traditionally considered as one possible explanation to the emergence of relapse in malaria and to the differences in the duration of the incubation period, which can also be explained by the use of chemoprophylaxis. Studying the reported cases of P. vivax malaria in Rio de Janeiro, where there is no vector transmission, has made it possible to evaluate the extension of the incubation period and to notice that it may be extended in some cases.
+
+Methods
+Descriptive study of every malaria patients who visited the clinic in the last five years. The mean, standard deviation, median, minimum and maximum of all incubation periods were analysed.
+
+Results
+From the total of 80 patients seen in the clinic during the study time, with confirmed diagnosis of malaria, 49 (63%) were infected with P. vivax. Between those, seven had an estimated incubation period varying from three to 12 months and were returned travellers from Brazilian Amazonian states (6) and Indonesia (1). None of them had taken malarial chemoprophylaxis.

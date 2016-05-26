@@ -1,0 +1,70 @@
+Scrub typhus is an acute, febrile, infectious illness that is caused by Orientia tsutsugamushi. The name derives from the type of vegetation (ie, terrain between woods and clearings) that harbors the vector. The image below depicts a typical eschar seen in scrub typhus.
+
+Typical eschar. 
+Typical eschar.
+Signs and symptoms
+Elements brought out in the history may include the following:
+
+Travel to an area where scrub typhus is endemic
+Chigger bite (often painless and unnoticed)
+Incubation period of 6-20 days (average, 10 days)
+Headaches, shaking chills, lymphadenopathy, conjunctival injection, fever, anorexia, and general apathy
+Rash; a small, painless, gradually enlarging papule, which leads to an area of central necrosis and is followed by eschar formation
+Although many other conditions can present with a high fever, the presentation of the rash, a history of exposure to endemic areas, and the presentation of the sore caused by the bite can be diagnostic of scrub fever.
+
+Physical findings may include the following:
+
+Site of infection marked by a chigger bite
+Eschar at the inoculation site (in about 50% of patients with primary infection and 30% of those with recurrent infection)
+High fever (40-40.5°C [104-105°F]), occurring more than 98% of the time
+Tender regional or generalized lymphadenopathy, occurring in 40-97% of cases
+Less frequently, ocular pain, wet cough, malaise, and injected conjunctiva
+Centrifugal macular rash on the trunk
+Enlargement of the spleen, cough, and delirium
+Pneumonitis or encephalitis
+Central nervous system (CNS), pulmonary, or cardiac involvement
+Rarely, acute renal failure, shock, and disseminated intravascular coagulation (DIC)
+See Presentation for more detail.
+
+Diagnosis
+Laboratory studies in patients with scrub typhus may reveal the following:
+
+Early lymphopenia with late lymphocytosis
+Decreased CD4:CD8 lymphocyte ratio
+Thrombocytopenia
+Hematologic manifestations may be confused with dengue infection
+Elevated transaminase levels (75-95% of patients)
+Hypoalbuminemia (50% of cases)
+Laboratory studies of choice are serologic tests for antibodies, including the following:
+
+Indirect immunoperoxidase test
+Indirect fluorescent antibody test
+Dot immunoassay
+Rapid immunochromatographic tests for detection of IgM and IgG
+Polymerase chain reaction (PCR) assay
+Rapid diagnostic reagent for scrub typhus
+Weil-Felix OX-K strain agglutination reaction
+Chest radiography may reveal pneumonitis, especially in the lower lung fields.
+
+See Workup for more detail.
+
+Management
+Current treatment for scrub typhus is based on antibiotic therapy. Relapses may occur if the antibiotics are not taken for long enough. Agents that have been used include the following:
+
+Tetracycline derivatives (standard; especially doxycycline)
+Macrolides (eg, azithromycin, roxithromycin, and telithromycin)
+Fluoroquinolones (not currently recommended; results have been mixed)
+Diet and activity are as tolerated. Inpatient care may be necessary for patients with severe scrub typhus. In such cases, meticulous supportive management is necessary to abort progression to DIC or circulatory collapse.
+
+Preventive measures in endemic areas include the following:
+
+Protective clothing
+Insect repellents
+Short-term vector reduction using environmental insecticides and vegetation control
+Chemoprophylaxis regimens have included the following:
+
+A single dose of doxycycline given weekly, started before exposure and continued for 6 weeks after exposure[1]
+A single oral dose of chloramphenicol (typically not used in the United States) or tetracycline given every 5 days for a total of 35 days, with 5-day nontreatment intervals
+No vaccine is available.
+
+See Treatment and Medication for more detail.

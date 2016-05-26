@@ -1,0 +1,1141 @@
+QID,URLNO,PNO,REL,EXPL
+1,1,1,Positive,Answers the details mentioned in the question
+1,1,2,Positive,Answers the details mentioned in the question
+1,2,3,Positive,Answers the details mentioned in the question
+1,3,4,Positive,Answers the details mentioned in the question
+1,4,5,Positive,Answers the details mentioned in the question
+1,5,6,Negative,Shows the original date in 1976; Instead should be in 2014
+1,6,7,Negative,Related Document but does not show the date
+1,7,8,Negative,Related Document but does not show the date
+1,7,9,Negative,Shows the original date in 1976; Instead should be in 2014 according to information need.
+1,8,10,Negative,Related Document but does not show the date
+2,9,11,Positive,Answers the details mentioned in the question
+2,9,12,Positive,Answers the details mentioned in the question
+2,9,13,Positive,Answers the details mentioned in the question
+2,9,14,Positive,Answers the details mentioned in the question
+2,10,15,Positive,Answers the details mentioned in the question
+2,11,16,Negative,Gives the total number of cases rather than the first case.
+2,12,17,Negative,Not related to the first person to get Ebola
+2,13,18,Negative,"Informs Number of Infected and dates back to 2013, rather than 2014"
+2,14,19,Negative,Does not give a date on the first case.
+2,9,20,Negative,Does not answer the question
+3,13,21,Positive,Answers the details mentioned in the question
+3,15,22,Positive,Answers the details mentioned in the question
+3,16,23,Positive,Answers the details mentioned in the question
+3,17,24,Positive,Answers the details mentioned in the question
+3,18,25,Positive,Answers the details mentioned in the question
+3,19,26,Negative,Does not give any info on the date/ebola cases outside africa.
+3,20,27,Negative,Does not give any info on the date/ebola cases outside africa.
+3,21,28,Negative,"Does not mention if first patients and returns in africa, rather than outside africa."
+3,21,29,Negative,"Declares them free of Ebola, rather than when they were diagonized"
+3,26,30,Negative,Does not provide relavant info
+4,22,31,Positive,Para explains how Manuel Garcêa was the first european to get ebola and died on Sep 25
+4,23,32,Positive,Para explains how repatriate Miguel Pajares was the first european to get ebola on 6th Aug 2014
+4,24,33,Positive,para answers on first european
+4,25,34,Positive,Answers the query
+4,26,35,Positive,Answers the query
+4,23,36,Negative,Only relays the death toll.
+4,24,37,Negative,"Answers the first in US, but query is for europe."
+4,27,38,Negative,Not confirmed as Ebola
+4,28,39,Negative,Talks about Bundibugyo virus  related to Ebola
+4,29,40,Negative,Does not mention the frist date.
+5,30,41,Positive,Informs the date when ebola first occurred in 2014.
+5,31,42,Positive,Informs the date when ebola first occurred in 2014.
+5,32,43,Positive,Informs the date when ebola first occurred in 2014.
+5,33,44,Positive,
+5,34,45,Positive,
+5,35,46,Negative,Does not mention start date
+5,36,47,Negative,Mentions 2013
+5,37,48,Negative,Mentions 1976
+5,37,49,Negative,Mentions 2013
+5,38,50,Negative,Contains keyword but no date
+6,39,51,Positive,Gives the correct information.
+6,40,52,Positive,Answers the details mentioned in the question
+6,41,53,Positive,Answers the details mentioned in the question
+6,42,54,Positive,Answers the details mentioned in the question
+6,43,55,Positive,Answers the details mentioned in the question
+6,145,56,Negative,talks about virus and importance of bats who carries them
+6,145,57,Negative,talks about a different cousin of ebola
+6,145,58,Negative,Does not provide relavant info
+6,145,59,Negative,talks about filvirus treatment
+6,44,60,Negative,Does not provide relavant info
+7,43,61,Positive,Answers the details mentioned in the question
+7,45,62,Positive,Answers the details mentioned in the question
+7,46,63,Positive,Answers the details mentioned in the question
+7,46,64,Positive,Answers the details mentioned in the question
+7,46,65,Positive,Answers the details mentioned in the question
+7,142,66,Negative,talks about last known strain
+7,143,67,Negative,Does not mention when
+7,42,68,Negative,"talks about malburg virus, a cousin of ebola"
+7,42,69,Negative,Does not mention when
+7,42,70,Negative,Does not mention when
+8,144,71,Positive,Answers the details mentioned in the question
+8,145,72,Positive,Answers the details mentioned in the question
+8,146,73,Positive,Answers the details mentioned in the question
+8,146,74,Positive,Answers the details mentioned in the question
+8,146,75,Positive,Answers the details mentioned in the question
+8,148,76,Negative,does not mention when it was first identified
+8,147,77,Negative,talks about first identified of outbreak rather than the virus
+8,147,78,Negative,talks about first identified of outbreak rather than the virus
+8,147,79,Negative,talks about outbreak
+9,90,81,Positive,Answers the details mentioned in the question
+9,151,82,Positive,Answers the details mentioned in the question
+9,151,83,Positive,Answers the details mentioned in the question
+9,231,84,Positive,Answers the details mentioned in the question
+9,232,85,Positive,Answers the details mentioned in the question
+9,90,86,Negative,does not mention treatment procedures
+9,147,87,Negative,talks about treatment center
+10,268,91,Positive,Answers the details mentioned in the question
+10,269,92,Positive,Answers the details mentioned in the question
+10,270,93,Positive,Answers the details mentioned in the question
+10,271,94,Positive,Answers the details mentioned in the question
+10,271,95,Positive,Answers the details mentioned in the question
+11,47,101,Positive,Answers the details mentioned in the question
+11,48,102,Positive,Answers the details mentioned in the question
+11,49,103,Positive,Answers the details mentioned in the question
+11,50,104,Positive,Answers the details mentioned in the question
+11,51,105,Positive,Answers the details mentioned in the question
+11,909,21,Positive,Answers the details mentioned in the question
+11,910,741,Positive,Answers the details mentioned in the question
+11,911,2324,Positive,Answers the details mentioned in the question
+11,52,106,Negative,Does not provide relavant info
+11,53,107,Negative,Does not provide relavant info
+11,54,108,Negative,Does not provide relavant info
+11,54,109,Negative,Does not provide relavant info
+11,55,110,Negative,Does not provide relavant info
+12,56,111,Positive,Answers the details mentioned in the question
+12,57,112,Positive,Answers the details mentioned in the question
+12,58,113,Positive,Answers the details mentioned in the question
+12,59,114,Positive,Answers the details mentioned in the question
+12,60,115,Positive,Answers the details mentioned in the question
+12,60,116,Negative,Does not provide relavant info
+12,123,117,Negative,Does not provide relavant info
+12,123,118,Negative,Does not provide relavant info
+12,124,119,Negative,Does not provide relavant info
+12,125,120,Negative,Does not provide relavant info
+13,126,121,Positive,Answers the details mentioned in the question
+13,127,122,Positive,Answers the details mentioned in the question
+13,128,123,Positive,Answers the details mentioned in the question
+13,129,123,Positive,Answers the details mentioned in the question
+13,130,124,Positive,Answers the details mentioned in the question
+13,130,125,Positive,Answers the details mentioned in the question
+13,69,126,Negative,talks about the first successful drug rather than the patient
+13,70,127,Negative,talks about the first successful drug rather than the patient
+13,71,128,Negative,he died of the infection; not successful
+13,72,129,Negative,Does not provide relavant info
+14,73,131,Positive,Answers the details mentioned in the question
+14,74,132,Positive,Answers the details mentioned in the question
+14,75,133,Positive,Answers the details mentioned in the question
+14,76,134,Positive,Answers the details mentioned in the question
+14,77,135,Positive,Answers the details mentioned in the question
+15,274,141,Positive,Answers the details mentioned in the question
+15,275,142,Positive,Answers the details mentioned in the question
+15,276,143,Positive,Answers the details mentioned in the question
+15,277,144,Positive,Answers the details mentioned in the question
+15,278,145,Positive,Answers the details mentioned in the question
+16,222,151,Positive,Answers the details mentioned in the question
+16,222,152,Positive,Answers the details mentioned in the question
+16,222,153,Positive,Answers the details mentioned in the question
+16,222,154,Positive,Answers the details mentioned in the question
+16,222,155,Positive,Answers the details mentioned in the question
+17,224,161,Positive,Answers the details mentioned in the question
+17,224,162,Positive,Answers the details mentioned in the question
+17,224,163,Positive,Answers the details mentioned in the question
+17,224,164,Positive,Answers the details mentioned in the question
+17,224,165,Positive,Answers the details mentioned in the question
+18,225,171,Positive,Answers the details mentioned in the question
+18,225,172,Positive,Answers the details mentioned in the question
+18,225,173,Positive,Answers the details mentioned in the question
+18,225,174,Positive,Answers the details mentioned in the question
+18,225,175,Positive,Answers the details mentioned in the question
+19,226,181,Positive,Answers the details mentioned in the question
+19,226,182,Positive,Answers the details mentioned in the question
+19,226,183,Positive,Answers the details mentioned in the question
+19,226,184,Positive,Answers the details mentioned in the question
+19,226,185,Positive,Answers the details mentioned in the question
+20,227,191,Positive,Answers the details mentioned in the question
+20,227,192,Positive,Answers the details mentioned in the question
+20,227,193,Positive,Answers the details mentioned in the question
+20,227,194,Positive,Answers the details mentioned in the question
+21,78,201,Positive,Answers the details mentioned in the question
+21,79,202,Positive,Answers the details mentioned in the question
+21,80,203,Positive,Answers the details mentioned in the question
+21,81,204,Positive,Answers the details mentioned in the question
+21,82,205,Positive,Answers the details mentioned in the question
+21,80,206,Negative,Does not provide relavant info
+21,83,207,Negative,Does not provide relavant info
+21,81,208,Negative,Does not provide relavant info
+21,47,209,Negative,Does not provide relavant info
+21,85,210,Negative,Does not provide relavant info
+22,79,211,Positive,Answers the details mentioned in the question
+22,79,212,Positive,Answers the details mentioned in the question
+22,86,213,Positive,Answers the details mentioned in the question
+22,87,214,Positive,Answers the details mentioned in the question
+22,88,215,Positive,Answers the details mentioned in the question
+22,89,216,Negative,Does not provide info if the patient was the first
+22,89,217,Negative,Does not provide info on patient
+22,90,218,Negative,Does not provide info on patient
+22,92,219,Negative,Provides info on treatment centers rather than patient treatments
+22,93,220,Negative,Provides info on treatment centers rather than patient treatments
+23,94,221,Positive,Answers the details mentioned in the question
+23,95,222,Positive,Answers the details mentioned in the question
+23,96,223,Positive,Answers the details mentioned in the question
+23,97,224,Positive,Answers the details mentioned in the question
+23,98,225,Positive,Answers the details mentioned in the question
+23,100,226,Negative,Does not provide relavant info
+23,100,227,Negative,Does not provide relavant info
+23,101,228,Negative,Does not provide relavant info
+23,102,229,Negative,Does not provide relavant info
+23,94,230,Negative,Does not provide relavant info
+24,233,231,Positive,Answers the details mentioned in the question
+24,233,232,Positive,Answers the details mentioned in the question
+24,233,233,Positive,Answers the details mentioned in the question
+24,235,234,Positive,Answers the details mentioned in the question
+24,236,235,Positive,Answers the details mentioned in the question
+24,69,236,Negative,Patient dies
+24,70,237,Negative,false negative
+24,71,238,Negative,he died of the infection; not successful
+24,72,239,Negative,not the first;
+24,94,240,Negative,did not mention first;
+25,69,246,Negative,did not mention if first patient;
+25,70,247,Negative,mentions recent;
+25,71,248,Negative,Patient dies
+25,72,249,Negative,did not mention if first patient;
+25,94,250,Negative,did not mention first;
+26,135,251,Positive,Answers the details mentioned in the question
+26,106,252,Positive,Answers the details mentioned in the question
+26,107,253,Positive,Answers the details mentioned in the question
+26,108,254,Positive,Answers the details mentioned in the question
+26,109,255,Positive,Answers the details mentioned in the question
+26,110,256,Negative,Does not provide relavant info
+26,111,257,Negative,Does not provide incubation period
+26,112,258,Negative,Does not provide relavant info
+26,107,259,Negative,Does not provide relavant info
+27,108,261,Positive,Answers the details mentioned in the question
+27,109,262,Positive,Answers the details mentioned in the question
+27,110,263,Positive,Answers the details mentioned in the question
+27,111,264,Positive,Answers the details mentioned in the question
+27,111,265,Positive,Answers the details mentioned in the question
+27,112,266,Negative,Does not provide relavant info
+27,113,267,Negative,Does not provide relavant info
+27,113,268,Negative,Does not provide relavant info
+27,113,269,Negative,Does not provide relavant info
+28,114,271,Positive,Answers the details mentioned in the question
+28,114,272,Positive,Answers the details mentioned in the question
+28,116,273,Positive,Answers the details mentioned in the question
+28,116,274,Positive,Answers the details mentioned in the question
+28,116,275,Positive,Answers the details mentioned in the question
+28,116,276,Negative,Does not provide relavant info
+28,117,280,Negative,Does not provide relavant info
+29,118,281,Positive,Answers the details mentioned in the question
+29,118,282,Positive,Answers the details mentioned in the question
+29,119,283,Positive,Answers the details mentioned in the question
+29,119,284,Positive,Answers the details mentioned in the question
+29,119,285,Positive,Answers the details mentioned in the question
+29,119,286,Negative,Does not provide relavant info
+30,139,291,Positive,Answers the details mentioned in the question
+30,140,292,Positive,Answers the details mentioned in the question
+30,140,293,Positive,Answers the details mentioned in the question
+30,141,294,Positive,Answers the details mentioned in the question
+30,141,295,Positive,Answers the details mentioned in the question
+30,141,296,Negative,Does not provide relavant info
+30,141,297,Negative,Does not provide relavant info
+31,151,351,Positive,Answers the details mentioned in the question
+31,151,352,Positive,Answers the details mentioned in the question
+31,241,353,Positive,Answers the details mentioned in the question
+31,242,354,Positive,Answers the details mentioned in the question
+31,243,355,Positive,Answers the details mentioned in the question
+31,244,356,Negative,Does not provide relavant info
+31,245,357,Negative,Does not provide incubation period
+32,246,361,Positive,Answers the details mentioned in the question
+32,247,362,Positive,Answers the details mentioned in the question
+32,248,363,Positive,Answers the details mentioned in the question
+32,249,364,Positive,Answers the details mentioned in the question
+32,250,365,Positive,Answers the details mentioned in the question
+32,251,366,Negative,Does not provide relavant info
+32,252,367,Negative,Does not provide relavant info
+32,252,368,Negative,Does not provide relavant info
+32,253,369,Negative,Does not provide relavant info
+32,254,370,Positive,Answers the details mentioned in the question
+33,255,371,Positive,Answers the details mentioned in the question
+33,256,372,Positive,Answers the details mentioned in the question
+33,257,373,Positive,Answers the details mentioned in the question
+33,258,374,Positive,Answers the details mentioned in the question
+33,259,375,Positive,Answers the details mentioned in the question
+34,260,381,Positive,Answers the details mentioned in the question
+34,261,382,Positive,Answers the details mentioned in the question
+34,158,383,Positive,Answers the details mentioned in the question
+34,262,384,Positive,Answers the details mentioned in the question
+34,263,385,Positive,Answers the details mentioned in the question
+35,57,391,Positive,Answers the details mentioned in the question
+35,264,392,Positive,Answers the details mentioned in the question
+35,365,393,Positive,Answers the details mentioned in the question
+35,266,394,Positive,Answers the details mentioned in the question
+35,267,395,Positive,Answers the details mentioned in the question
+41,188,401,Positive,Answers the details mentioned in the question
+41,189,402,Positive,Answers the details mentioned in the question
+41,190,403,Positive,Answers the details mentioned in the question
+41,190,404,Positive,Answers the details mentioned in the question
+41,191,405,Positive,Answers the details mentioned in the question
+41,191,406,Negative,Does not provide relavant info
+41,191,407,Negative,Does not provide relavant info
+42,192,411,Positive,Answers the details mentioned in the question
+42,193,412,Positive,Answers the details mentioned in the question
+42,193,413,Positive,Answers the details mentioned in the question
+42,194,414,Positive,Answers the details mentioned in the question
+42,195,415,Positive,Answers the details mentioned in the question
+42,195,416,Negative,Does not provide relavant info
+42,195,417,Negative,Does not provide relavant info
+43,196,421,Positive,Answers the details mentioned in the question
+43,197,422,Positive,Answers the details mentioned in the question
+43,197,423,Positive,Answers the details mentioned in the question
+43,197,424,Positive,Answers the details mentioned in the question
+43,198,425,Positive,Answers the details mentioned in the question
+43,198,426,Negative,Does not provide relavant info
+43,198,427,Negative,Does not provide relavant info
+44,199,431,Positive,Answers the details mentioned in the question
+44,199,432,Positive,Answers the details mentioned in the question
+44,199,433,Positive,Answers the details mentioned in the question
+44,200,434,Positive,Answers the details mentioned in the question
+44,200,435,Positive,Answers the details mentioned in the question
+44,200,436,Negative,Does not provide relavant info
+44,200,437,Negative,Does not provide relavant info
+45,201,441,Positive,Answers the details mentioned in the question
+45,201,442,Positive,Answers the details mentioned in the question
+45,202,443,Positive,Answers the details mentioned in the question
+45,202,444,Positive,Answers the details mentioned in the question
+45,202,445,Positive,Answers the details mentioned in the question
+45,202,446,Negative,Does not provide relavant info
+46,150,451,Positive,Answers the details mentioned in the question
+46,150,452,Positive,Answers the details mentioned in the question
+46,151,453,Positive,Answers the details mentioned in the question
+46,152,454,Positive,Answers the details mentioned in the question
+46,152,455,Positive,Answers the details mentioned in the question
+46,152,456,Negative,Does not provide relavant info
+46,152,457,Negative,Does not provide relavant info
+47,153,461,Positive,Answers the details mentioned in the question
+47,154,462,Positive,Answers the details mentioned in the question
+47,273,463,Positive,Answers the details mentioned in the question
+47,156,464,Positive,Answers the details mentioned in the question
+47,157,465,Positive,Answers the details mentioned in the question
+47,158,466,Negative,Does not provide relavant info
+47,158,467,Negative,Does not provide relavant info
+48,159,471,Positive,Answers the details mentioned in the question
+48,159,472,Positive,Answers the details mentioned in the question
+48,159,473,Positive,Answers the details mentioned in the question
+48,160,474,Positive,Answers the details mentioned in the question
+48,161,475,Positive,Answers the details mentioned in the question
+48,161,476,Negative,Does not provide relavant info
+48,161,477,Negative,Does not provide relavant info
+49,162,481,Positive,Answers the details mentioned in the question
+49,163,482,Positive,Answers the details mentioned in the question
+49,164,483,Positive,Answers the details mentioned in the question
+49,165,484,Positive,Answers the details mentioned in the question
+49,166,485,Positive,Answers the details mentioned in the question
+49,166,486,Negative,Does not provide relavant info
+49,166,487,Negative,Does not provide relavant info
+53,279,561,Positive,Answers the details mentioned in the question
+53,280,562,Positive,Answers the details mentioned in the question
+53,281,563,Positive,Answers the details mentioned in the question
+53,282,564,Positive,Answers the details mentioned in the question
+53,283,565,Positive,Answers the details mentioned in the question
+101,701,701,Positive,Answers the details mentioned in the questions
+101,702,702,Positive,Answers the details mentioned in the questions
+101,703,703,Positive,Answers the details mentioned in the questions
+101,704,704,Positive,Answers the details mentioned in the questions
+101,705,705,Positive,Answers the details mentioned in the questions
+101,706,706,Positive,Answers the details mentioned in the questions
+101,707,707,Positive,Answers the details mentioned in the questions
+101,708,708,Positive,Answers the details mentioned in the questions
+101,709,709,Positive,Answers the details mentioned in the questions
+101,710,710,Positive,Answers the details mentioned in the questions
+102,711,711,Positive,Answers the details mentioned in the questions
+102,712,712,Positive,Answers the details mentioned in the questions
+102,713,713,Positive,Answers the details mentioned in the questions
+102,714,714,Positive,Answers the details mentioned in the questions
+102,715,715,Positive,Answers the details mentioned in the questions
+102,716,716,Positive,Answers the details mentioned in the questions
+102,717,717,Positive,Answers the details mentioned in the questions
+102,718,718,Positive,Answers the details mentioned in the questions
+102,719,719,Positive,Answers the details mentioned in the questions
+102,720,720,Positive,Answers the details mentioned in the questions
+103,721,721,Positive,Answers the details mentioned in the questions
+103,722,722,Positive,Answers the details mentioned in the questions
+103,723,723,Positive,Answers the details mentioned in the questions
+103,724,724,Positive,Answers the details mentioned in the questions
+103,725,725,Positive,Answers the details mentioned in the questions
+103,726,726,Positive,Answers the details mentioned in the questions
+103,727,727,Positive,Answers the details mentioned in the questions
+103,728,728,Positive,Answers the details mentioned in the questions
+103,729,729,Positive,Answers the details mentioned in the questions
+103,730,730,Positive,Answers the details mentioned in the questions
+104,731,731,Positive,Answers the details mentioned in the questions
+104,732,732,Positive,Answers the details mentioned in the questions
+104,733,733,Positive,Answers the details mentioned in the questions
+104,734,734,Positive,Answers the details mentioned in the questions
+104,735,735,Positive,Answers the details mentioned in the questions
+104,736,736,Positive,Answers the details mentioned in the questions
+104,737,737,Positive,Answers the details mentioned in the questions
+104,738,738,Positive,Answers the details mentioned in the questions
+104,739,739,Positive,Answers the details mentioned in the questions
+104,740,740,Positive,Answers the details mentioned in the questions
+105,701,701,Positive,Answers the details mentioned in the questions
+105,702,702,Positive,Answers the details mentioned in the questions
+105,703,703,Positive,Answers the details mentioned in the questions
+105,704,704,Positive,Answers the details mentioned in the questions
+105,705,705,Positive,Answers the details mentioned in the questions
+105,706,706,Positive,Answers the details mentioned in the questions
+105,707,707,Positive,Answers the details mentioned in the questions
+105,708,708,Positive,Answers the details mentioned in the questions
+105,709,709,Positive,Answers the details mentioned in the questions
+105,710,710,Positive,Answers the details mentioned in the questions
+106,711,711,Positive,Answers the details mentioned in the questions
+106,712,712,Positive,Answers the details mentioned in the questions
+106,713,713,Positive,Answers the details mentioned in the questions
+106,714,714,Positive,Answers the details mentioned in the questions
+106,715,715,Positive,Answers the details mentioned in the questions
+106,716,716,Positive,Answers the details mentioned in the questions
+106,717,717,Positive,Answers the details mentioned in the questions
+106,718,718,Positive,Answers the details mentioned in the questions
+106,719,719,Positive,Answers the details mentioned in the questions
+106,720,720,Positive,Answers the details mentioned in the questions
+107,721,721,Positive,Answers the details mentioned in the questions
+107,722,722,Positive,Answers the details mentioned in the questions
+107,723,723,Positive,Answers the details mentioned in the questions
+107,724,724,Positive,Answers the details mentioned in the questions
+107,725,725,Positive,Answers the details mentioned in the questions
+107,726,726,Positive,Answers the details mentioned in the questions
+107,727,727,Positive,Answers the details mentioned in the questions
+107,728,728,Positive,Answers the details mentioned in the questions
+107,729,729,Positive,Answers the details mentioned in the questions
+107,730,730,Positive,Answers the details mentioned in the questions
+108,731,731,Positive,Answers the details mentioned in the questions
+108,732,732,Positive,Answers the details mentioned in the questions
+108,733,733,Positive,Answers the details mentioned in the questions
+108,734,734,Positive,Answers the details mentioned in the questions
+108,735,735,Positive,Answers the details mentioned in the questions
+108,736,736,Positive,Answers the details mentioned in the questions
+108,737,737,Positive,Answers the details mentioned in the questions
+108,738,738,Positive,Answers the details mentioned in the questions
+108,739,739,Positive,Answers the details mentioned in the questions
+108,740,740,Positive,Answers the details mentioned in the questions
+109,701,701,Positive,Answers the details mentioned in the questions
+109,702,702,Positive,Answers the details mentioned in the questions
+109,703,703,Positive,Answers the details mentioned in the questions
+109,704,704,Positive,Answers the details mentioned in the questions
+109,705,705,Positive,Answers the details mentioned in the questions
+109,706,706,Positive,Answers the details mentioned in the questions
+109,707,707,Positive,Answers the details mentioned in the questions
+109,708,708,Positive,Answers the details mentioned in the questions
+109,709,709,Positive,Answers the details mentioned in the questions
+109,710,710,Positive,Answers the details mentioned in the questions
+110,711,711,Positive,Answers the details mentioned in the questions
+110,712,712,Positive,Answers the details mentioned in the questions
+110,713,713,Positive,Answers the details mentioned in the questions
+110,714,714,Positive,Answers the details mentioned in the questions
+110,715,715,Positive,Answers the details mentioned in the questions
+110,716,716,Positive,Answers the details mentioned in the questions
+110,717,717,Positive,Answers the details mentioned in the questions
+110,718,718,Positive,Answers the details mentioned in the questions
+110,719,719,Positive,Answers the details mentioned in the questions
+110,720,720,Positive,Answers the details mentioned in the questions
+111,721,721,Positive,Answers the details mentioned in the questions
+111,722,722,Positive,Answers the details mentioned in the questions
+111,723,723,Positive,Answers the details mentioned in the questions
+111,724,724,Positive,Answers the details mentioned in the questions
+111,725,725,Positive,Answers the details mentioned in the questions
+111,726,726,Positive,Answers the details mentioned in the questions
+111,727,727,Positive,Answers the details mentioned in the questions
+111,728,728,Positive,Answers the details mentioned in the questions
+111,729,729,Positive,Answers the details mentioned in the questions
+111,730,730,Positive,Answers the details mentioned in the questions
+112,731,731,Positive,Answers the details mentioned in the questions
+112,732,732,Positive,Answers the details mentioned in the questions
+112,733,733,Positive,Answers the details mentioned in the questions
+112,734,734,Positive,Answers the details mentioned in the questions
+112,735,735,Positive,Answers the details mentioned in the questions
+112,736,736,Positive,Answers the details mentioned in the questions
+112,737,737,Positive,Answers the details mentioned in the questions
+112,738,738,Positive,Answers the details mentioned in the questions
+112,739,739,Positive,Answers the details mentioned in the questions
+112,740,740,Positive,Answers the details mentioned in the questions
+113,701,701,Positive,Answers the details mentioned in the questions
+113,702,702,Positive,Answers the details mentioned in the questions
+113,703,703,Positive,Answers the details mentioned in the questions
+113,704,704,Positive,Answers the details mentioned in the questions
+113,705,705,Positive,Answers the details mentioned in the questions
+113,706,706,Positive,Answers the details mentioned in the questions
+113,707,707,Positive,Answers the details mentioned in the questions
+113,708,708,Positive,Answers the details mentioned in the questions
+113,709,709,Positive,Answers the details mentioned in the questions
+113,710,710,Positive,Answers the details mentioned in the questions
+114,711,711,Positive,Answers the details mentioned in the questions
+114,712,712,Positive,Answers the details mentioned in the questions
+114,713,713,Positive,Answers the details mentioned in the questions
+114,714,714,Positive,Answers the details mentioned in the questions
+114,715,715,Positive,Answers the details mentioned in the questions
+114,716,716,Positive,Answers the details mentioned in the questions
+114,717,717,Positive,Answers the details mentioned in the questions
+114,718,718,Positive,Answers the details mentioned in the questions
+114,719,719,Positive,Answers the details mentioned in the questions
+114,720,720,Positive,Answers the details mentioned in the questions
+115,721,721,Positive,Answers the details mentioned in the questions
+115,722,722,Positive,Answers the details mentioned in the questions
+115,723,723,Positive,Answers the details mentioned in the questions
+115,724,724,Positive,Answers the details mentioned in the questions
+115,725,725,Positive,Answers the details mentioned in the questions
+115,726,726,Positive,Answers the details mentioned in the questions
+115,727,727,Positive,Answers the details mentioned in the questions
+115,728,728,Positive,Answers the details mentioned in the questions
+115,729,729,Positive,Answers the details mentioned in the questions
+115,730,730,Positive,Answers the details mentioned in the questions
+116,731,731,Positive,Answers the details mentioned in the questions
+116,732,732,Positive,Answers the details mentioned in the questions
+116,733,733,Positive,Answers the details mentioned in the questions
+116,734,734,Positive,Answers the details mentioned in the questions
+116,735,735,Positive,Answers the details mentioned in the questions
+116,736,736,Positive,Answers the details mentioned in the questions
+116,737,737,Positive,Answers the details mentioned in the questions
+116,738,738,Positive,Answers the details mentioned in the questions
+116,739,739,Positive,Answers the details mentioned in the questions
+116,740,740,Positive,Answers the details mentioned in the questions
+117,701,701,Positive,Answers the details mentioned in the questions
+117,702,702,Positive,Answers the details mentioned in the questions
+117,703,703,Positive,Answers the details mentioned in the questions
+117,704,704,Positive,Answers the details mentioned in the questions
+117,705,705,Positive,Answers the details mentioned in the questions
+117,706,706,Positive,Answers the details mentioned in the questions
+117,707,707,Positive,Answers the details mentioned in the questions
+117,708,708,Positive,Answers the details mentioned in the questions
+117,709,709,Positive,Answers the details mentioned in the questions
+117,710,710,Positive,Answers the details mentioned in the questions
+118,711,711,Positive,Answers the details mentioned in the questions
+118,712,712,Positive,Answers the details mentioned in the questions
+118,713,713,Positive,Answers the details mentioned in the questions
+118,714,714,Positive,Answers the details mentioned in the questions
+118,715,715,Positive,Answers the details mentioned in the questions
+118,716,716,Positive,Answers the details mentioned in the questions
+118,717,717,Positive,Answers the details mentioned in the questions
+118,718,718,Positive,Answers the details mentioned in the questions
+118,719,719,Positive,Answers the details mentioned in the questions
+118,720,720,Positive,Answers the details mentioned in the questions
+119,721,721,Positive,Answers the details mentioned in the questions
+119,722,722,Positive,Answers the details mentioned in the questions
+119,723,723,Positive,Answers the details mentioned in the questions
+119,724,724,Positive,Answers the details mentioned in the questions
+119,725,725,Positive,Answers the details mentioned in the questions
+119,726,726,Positive,Answers the details mentioned in the questions
+119,727,727,Positive,Answers the details mentioned in the questions
+119,728,728,Positive,Answers the details mentioned in the questions
+119,729,729,Positive,Answers the details mentioned in the questions
+119,730,730,Positive,Answers the details mentioned in the questions
+120,731,731,Positive,Answers the details mentioned in the questions
+120,732,732,Positive,Answers the details mentioned in the questions
+120,733,733,Positive,Answers the details mentioned in the questions
+120,734,734,Positive,Answers the details mentioned in the questions
+120,735,735,Positive,Answers the details mentioned in the questions
+120,736,736,Positive,Answers the details mentioned in the questions
+120,737,737,Positive,Answers the details mentioned in the questions
+120,738,738,Positive,Answers the details mentioned in the questions
+120,739,739,Positive,Answers the details mentioned in the questions
+120,740,740,Positive,Answers the details mentioned in the questions
+121,741,741,Positive,Answers the details mentioned in the questions
+121,742,742,Positive,Answers the details mentioned in the questions
+121,743,743,Positive,Answers the details mentioned in the questions
+121,744,744,Positive,Answers the details mentioned in the questions
+121,745,745,Positive,Answers the details mentioned in the questions
+121,746,746,Positive,Answers the details mentioned in the questions
+121,747,747,Positive,Answers the details mentioned in the questions
+121,748,748,Positive,Answers the details mentioned in the questions
+121,749,749,Positive,Answers the details mentioned in the questions
+121,750,750,Positive,Answers the details mentioned in the questions
+122,751,751,Positive,Answers the details mentioned in the questions
+122,752,752,Positive,Answers the details mentioned in the questions
+122,753,753,Positive,Answers the details mentioned in the questions
+122,754,754,Positive,Answers the details mentioned in the questions
+122,755,755,Positive,Answers the details mentioned in the questions
+122,756,756,Positive,Answers the details mentioned in the questions
+122,757,757,Positive,Answers the details mentioned in the questions
+122,758,758,Positive,Answers the details mentioned in the questions
+122,759,759,Positive,Answers the details mentioned in the questions
+122,760,760,Positive,Answers the details mentioned in the questions
+123,761,761,Positive,Answers the details mentioned in the questions
+123,762,762,Positive,Answers the details mentioned in the questions
+123,763,763,Positive,Answers the details mentioned in the questions
+123,764,764,Positive,Answers the details mentioned in the questions
+123,765,765,Positive,Answers the details mentioned in the questions
+123,766,766,Positive,Answers the details mentioned in the questions
+123,767,767,Positive,Answers the details mentioned in the questions
+123,768,768,Positive,Answers the details mentioned in the questions
+123,769,769,Positive,Answers the details mentioned in the questions
+123,770,770,Positive,Answers the details mentioned in the questions
+124,771,771,Positive,Answers the details mentioned in the questions
+124,772,772,Positive,Answers the details mentioned in the questions
+124,773,773,Positive,Answers the details mentioned in the questions
+124,774,774,Positive,Answers the details mentioned in the questions
+124,775,775,Positive,Answers the details mentioned in the questions
+124,776,776,Positive,Answers the details mentioned in the questions
+124,777,777,Positive,Answers the details mentioned in the questions
+124,778,778,Positive,Answers the details mentioned in the questions
+124,779,779,Positive,Answers the details mentioned in the questions
+124,780,780,Positive,Answers the details mentioned in the questions
+125,781,781,Positive,Answers the details mentioned in the questions
+125,782,782,Positive,Answers the details mentioned in the questions
+125,783,783,Positive,Answers the details mentioned in the questions
+125,784,784,Positive,Answers the details mentioned in the questions
+125,785,785,Positive,Answers the details mentioned in the questions
+125,786,786,Positive,Answers the details mentioned in the questions
+125,787,787,Positive,Answers the details mentioned in the questions
+125,788,788,Positive,Answers the details mentioned in the questions
+125,789,789,Positive,Answers the details mentioned in the questions
+125,790,790,Positive,Answers the details mentioned in the questions
+126,741,741,Positive,Answers the details mentioned in the questions
+126,742,742,Positive,Answers the details mentioned in the questions
+126,743,743,Positive,Answers the details mentioned in the questions
+126,744,744,Positive,Answers the details mentioned in the questions
+126,745,745,Positive,Answers the details mentioned in the questions
+126,746,746,Positive,Answers the details mentioned in the questions
+126,747,747,Positive,Answers the details mentioned in the questions
+126,748,748,Positive,Answers the details mentioned in the questions
+126,749,749,Positive,Answers the details mentioned in the questions
+126,750,750,Positive,Answers the details mentioned in the questions
+127,751,751,Positive,Answers the details mentioned in the questions
+127,752,752,Positive,Answers the details mentioned in the questions
+127,753,753,Positive,Answers the details mentioned in the questions
+127,754,754,Positive,Answers the details mentioned in the questions
+127,755,755,Positive,Answers the details mentioned in the questions
+127,756,756,Positive,Answers the details mentioned in the questions
+127,757,757,Positive,Answers the details mentioned in the questions
+127,758,758,Positive,Answers the details mentioned in the questions
+127,759,759,Positive,Answers the details mentioned in the questions
+127,760,760,Positive,Answers the details mentioned in the questions
+128,761,761,Positive,Answers the details mentioned in the questions
+128,762,762,Positive,Answers the details mentioned in the questions
+128,763,763,Positive,Answers the details mentioned in the questions
+128,764,764,Positive,Answers the details mentioned in the questions
+128,765,765,Positive,Answers the details mentioned in the questions
+128,766,766,Positive,Answers the details mentioned in the questions
+128,767,767,Positive,Answers the details mentioned in the questions
+128,768,768,Positive,Answers the details mentioned in the questions
+128,769,769,Positive,Answers the details mentioned in the questions
+128,770,770,Positive,Answers the details mentioned in the questions
+129,771,771,Positive,Answers the details mentioned in the questions
+129,772,772,Positive,Answers the details mentioned in the questions
+129,773,773,Positive,Answers the details mentioned in the questions
+129,774,774,Positive,Answers the details mentioned in the questions
+129,775,775,Positive,Answers the details mentioned in the questions
+129,776,776,Positive,Answers the details mentioned in the questions
+129,777,777,Positive,Answers the details mentioned in the questions
+129,778,778,Positive,Answers the details mentioned in the questions
+129,779,779,Positive,Answers the details mentioned in the questions
+129,780,780,Positive,Answers the details mentioned in the questions
+130,781,781,Positive,Answers the details mentioned in the questions
+130,782,782,Positive,Answers the details mentioned in the questions
+130,783,783,Positive,Answers the details mentioned in the questions
+130,784,784,Positive,Answers the details mentioned in the questions
+130,785,785,Positive,Answers the details mentioned in the questions
+130,786,786,Positive,Answers the details mentioned in the questions
+130,787,787,Positive,Answers the details mentioned in the questions
+130,788,788,Positive,Answers the details mentioned in the questions
+130,789,789,Positive,Answers the details mentioned in the questions
+130,790,790,Positive,Answers the details mentioned in the questions
+131,741,741,Positive,Answers the details mentioned in the questions
+131,742,742,Positive,Answers the details mentioned in the questions
+131,743,743,Positive,Answers the details mentioned in the questions
+131,744,744,Positive,Answers the details mentioned in the questions
+131,745,745,Positive,Answers the details mentioned in the questions
+131,746,746,Positive,Answers the details mentioned in the questions
+131,747,747,Positive,Answers the details mentioned in the questions
+131,748,748,Positive,Answers the details mentioned in the questions
+131,749,749,Positive,Answers the details mentioned in the questions
+131,750,750,Positive,Answers the details mentioned in the questions
+132,751,751,Positive,Answers the details mentioned in the questions
+132,752,752,Positive,Answers the details mentioned in the questions
+132,753,753,Positive,Answers the details mentioned in the questions
+132,754,754,Positive,Answers the details mentioned in the questions
+132,755,755,Positive,Answers the details mentioned in the questions
+132,756,756,Positive,Answers the details mentioned in the questions
+132,757,757,Positive,Answers the details mentioned in the questions
+132,758,758,Positive,Answers the details mentioned in the questions
+132,759,759,Positive,Answers the details mentioned in the questions
+132,760,760,Positive,Answers the details mentioned in the questions
+133,761,761,Positive,Answers the details mentioned in the questions
+133,762,762,Positive,Answers the details mentioned in the questions
+133,763,763,Positive,Answers the details mentioned in the questions
+133,764,764,Positive,Answers the details mentioned in the questions
+133,765,765,Positive,Answers the details mentioned in the questions
+133,766,766,Positive,Answers the details mentioned in the questions
+133,767,767,Positive,Answers the details mentioned in the questions
+133,768,768,Positive,Answers the details mentioned in the questions
+133,769,769,Positive,Answers the details mentioned in the questions
+133,770,770,Positive,Answers the details mentioned in the questions
+134,771,771,Positive,Answers the details mentioned in the questions
+134,772,772,Positive,Answers the details mentioned in the questions
+134,773,773,Positive,Answers the details mentioned in the questions
+134,774,774,Positive,Answers the details mentioned in the questions
+134,775,775,Positive,Answers the details mentioned in the questions
+134,776,776,Positive,Answers the details mentioned in the questions
+134,777,777,Positive,Answers the details mentioned in the questions
+134,778,778,Positive,Answers the details mentioned in the questions
+134,779,779,Positive,Answers the details mentioned in the questions
+134,780,780,Positive,Answers the details mentioned in the questions
+135,781,781,Positive,Answers the details mentioned in the questions
+135,782,782,Positive,Answers the details mentioned in the questions
+135,783,783,Positive,Answers the details mentioned in the questions
+135,784,784,Positive,Answers the details mentioned in the questions
+135,785,785,Positive,Answers the details mentioned in the questions
+135,786,786,Positive,Answers the details mentioned in the questions
+135,787,787,Positive,Answers the details mentioned in the questions
+135,788,788,Positive,Answers the details mentioned in the questions
+135,789,789,Positive,Answers the details mentioned in the questions
+135,790,790,Positive,Answers the details mentioned in the questions
+136,741,741,Positive,Answers the details mentioned in the questions
+136,742,742,Positive,Answers the details mentioned in the questions
+136,743,743,Positive,Answers the details mentioned in the questions
+136,744,744,Positive,Answers the details mentioned in the questions
+136,745,745,Positive,Answers the details mentioned in the questions
+136,746,746,Positive,Answers the details mentioned in the questions
+136,747,747,Positive,Answers the details mentioned in the questions
+136,748,748,Positive,Answers the details mentioned in the questions
+136,749,749,Positive,Answers the details mentioned in the questions
+136,750,750,Positive,Answers the details mentioned in the questions
+137,751,751,Positive,Answers the details mentioned in the questions
+137,752,752,Positive,Answers the details mentioned in the questions
+137,753,753,Positive,Answers the details mentioned in the questions
+137,754,754,Positive,Answers the details mentioned in the questions
+137,755,755,Positive,Answers the details mentioned in the questions
+137,756,756,Positive,Answers the details mentioned in the questions
+137,757,757,Positive,Answers the details mentioned in the questions
+137,758,758,Positive,Answers the details mentioned in the questions
+137,759,759,Positive,Answers the details mentioned in the questions
+137,760,760,Positive,Answers the details mentioned in the questions
+138,761,761,Positive,Answers the details mentioned in the questions
+138,762,762,Positive,Answers the details mentioned in the questions
+138,763,763,Positive,Answers the details mentioned in the questions
+138,764,764,Positive,Answers the details mentioned in the questions
+138,765,765,Positive,Answers the details mentioned in the questions
+138,766,766,Positive,Answers the details mentioned in the questions
+138,767,767,Positive,Answers the details mentioned in the questions
+138,768,768,Positive,Answers the details mentioned in the questions
+138,769,769,Positive,Answers the details mentioned in the questions
+138,770,770,Positive,Answers the details mentioned in the questions
+139,771,771,Positive,Answers the details mentioned in the questions
+139,772,772,Positive,Answers the details mentioned in the questions
+139,773,773,Positive,Answers the details mentioned in the questions
+139,774,774,Positive,Answers the details mentioned in the questions
+139,775,775,Positive,Answers the details mentioned in the questions
+139,776,776,Positive,Answers the details mentioned in the questions
+139,777,777,Positive,Answers the details mentioned in the questions
+139,778,778,Positive,Answers the details mentioned in the questions
+139,779,779,Positive,Answers the details mentioned in the questions
+139,780,780,Positive,Answers the details mentioned in the questions
+140,781,781,Positive,Answers the details mentioned in the questions
+140,782,782,Positive,Answers the details mentioned in the questions
+140,783,783,Positive,Answers the details mentioned in the questions
+140,784,784,Positive,Answers the details mentioned in the questions
+140,785,785,Positive,Answers the details mentioned in the questions
+140,786,786,Positive,Answers the details mentioned in the questions
+140,787,787,Positive,Answers the details mentioned in the questions
+140,788,788,Positive,Answers the details mentioned in the questions
+140,789,789,Positive,Answers the details mentioned in the questions
+140,790,790,Positive,Answers the details mentioned in the questions
+141,791,791,Positive,Answers the details mentioned in the questions
+141,792,792,Positive,Answers the details mentioned in the questions
+141,793,793,Positive,Answers the details mentioned in the questions
+141,794,794,Positive,Answers the details mentioned in the questions
+141,795,795,Positive,Answers the details mentioned in the questions
+141,796,796,Positive,Answers the details mentioned in the questions
+141,797,797,Positive,Answers the details mentioned in the questions
+141,798,798,Positive,Answers the details mentioned in the questions
+141,799,799,Positive,Answers the details mentioned in the questions
+141,800,800,Positive,Answers the details mentioned in the questions
+142,801,801,Positive,Answers the details mentioned in the questions
+142,802,802,Positive,Answers the details mentioned in the questions
+142,803,803,Positive,Answers the details mentioned in the questions
+142,804,804,Positive,Answers the details mentioned in the questions
+142,805,805,Positive,Answers the details mentioned in the questions
+142,806,806,Positive,Answers the details mentioned in the questions
+142,807,807,Positive,Answers the details mentioned in the questions
+142,808,808,Positive,Answers the details mentioned in the questions
+142,809,809,Positive,Answers the details mentioned in the questions
+142,810,810,Positive,Answers the details mentioned in the questions
+143,811,811,Positive,Answers the details mentioned in the questions
+143,812,812,Positive,Answers the details mentioned in the questions
+143,813,813,Positive,Answers the details mentioned in the questions
+143,814,814,Positive,Answers the details mentioned in the questions
+143,815,815,Positive,Answers the details mentioned in the questions
+143,816,816,Positive,Answers the details mentioned in the questions
+143,817,817,Positive,Answers the details mentioned in the questions
+143,818,818,Positive,Answers the details mentioned in the questions
+143,819,819,Positive,Answers the details mentioned in the questions
+143,820,820,Positive,Answers the details mentioned in the questions
+144,821,821,Positive,Answers the details mentioned in the questions
+144,822,822,Positive,Answers the details mentioned in the questions
+144,823,823,Positive,Answers the details mentioned in the questions
+144,824,824,Positive,Answers the details mentioned in the questions
+144,825,825,Positive,Answers the details mentioned in the questions
+144,826,826,Positive,Answers the details mentioned in the questions
+144,827,827,Positive,Answers the details mentioned in the questions
+144,828,828,Positive,Answers the details mentioned in the questions
+144,829,829,Positive,Answers the details mentioned in the questions
+144,830,830,Positive,Answers the details mentioned in the questions
+145,791,791,Positive,Answers the details mentioned in the questions
+145,792,792,Positive,Answers the details mentioned in the questions
+145,793,793,Positive,Answers the details mentioned in the questions
+145,794,794,Positive,Answers the details mentioned in the questions
+145,795,795,Positive,Answers the details mentioned in the questions
+145,796,796,Positive,Answers the details mentioned in the questions
+145,797,797,Positive,Answers the details mentioned in the questions
+145,798,798,Positive,Answers the details mentioned in the questions
+145,799,799,Positive,Answers the details mentioned in the questions
+145,800,800,Positive,Answers the details mentioned in the questions
+146,801,801,Positive,Answers the details mentioned in the questions
+146,802,802,Positive,Answers the details mentioned in the questions
+146,803,803,Positive,Answers the details mentioned in the questions
+146,804,804,Positive,Answers the details mentioned in the questions
+146,805,805,Positive,Answers the details mentioned in the questions
+146,806,806,Positive,Answers the details mentioned in the questions
+146,807,807,Positive,Answers the details mentioned in the questions
+146,808,808,Positive,Answers the details mentioned in the questions
+146,809,809,Positive,Answers the details mentioned in the questions
+146,810,810,Positive,Answers the details mentioned in the questions
+147,811,811,Positive,Answers the details mentioned in the questions
+147,812,812,Positive,Answers the details mentioned in the questions
+147,813,813,Positive,Answers the details mentioned in the questions
+147,814,814,Positive,Answers the details mentioned in the questions
+147,815,815,Positive,Answers the details mentioned in the questions
+147,816,816,Positive,Answers the details mentioned in the questions
+147,817,817,Positive,Answers the details mentioned in the questions
+147,818,818,Positive,Answers the details mentioned in the questions
+147,819,819,Positive,Answers the details mentioned in the questions
+147,820,820,Positive,Answers the details mentioned in the questions
+148,821,821,Positive,Answers the details mentioned in the questions
+148,822,822,Positive,Answers the details mentioned in the questions
+148,823,823,Positive,Answers the details mentioned in the questions
+148,824,824,Positive,Answers the details mentioned in the questions
+148,825,825,Positive,Answers the details mentioned in the questions
+148,826,826,Positive,Answers the details mentioned in the questions
+148,827,827,Positive,Answers the details mentioned in the questions
+148,828,828,Positive,Answers the details mentioned in the questions
+148,829,829,Positive,Answers the details mentioned in the questions
+148,830,830,Positive,Answers the details mentioned in the questions
+149,791,791,Positive,Answers the details mentioned in the questions
+149,792,792,Positive,Answers the details mentioned in the questions
+149,793,793,Positive,Answers the details mentioned in the questions
+149,794,794,Positive,Answers the details mentioned in the questions
+149,795,795,Positive,Answers the details mentioned in the questions
+149,796,796,Positive,Answers the details mentioned in the questions
+149,797,797,Positive,Answers the details mentioned in the questions
+149,798,798,Positive,Answers the details mentioned in the questions
+149,799,799,Positive,Answers the details mentioned in the questions
+149,800,800,Positive,Answers the details mentioned in the questions
+150,801,801,Positive,Answers the details mentioned in the questions
+150,802,802,Positive,Answers the details mentioned in the questions
+150,803,803,Positive,Answers the details mentioned in the questions
+150,804,804,Positive,Answers the details mentioned in the questions
+150,805,805,Positive,Answers the details mentioned in the questions
+150,806,806,Positive,Answers the details mentioned in the questions
+150,807,807,Positive,Answers the details mentioned in the questions
+150,808,808,Positive,Answers the details mentioned in the questions
+150,809,809,Positive,Answers the details mentioned in the questions
+150,810,810,Positive,Answers the details mentioned in the questions
+151,811,811,Positive,Answers the details mentioned in the questions
+151,812,812,Positive,Answers the details mentioned in the questions
+151,813,813,Positive,Answers the details mentioned in the questions
+151,814,814,Positive,Answers the details mentioned in the questions
+151,815,815,Positive,Answers the details mentioned in the questions
+151,816,816,Positive,Answers the details mentioned in the questions
+151,817,817,Positive,Answers the details mentioned in the questions
+151,818,818,Positive,Answers the details mentioned in the questions
+151,819,819,Positive,Answers the details mentioned in the questions
+151,820,820,Positive,Answers the details mentioned in the questions
+152,821,821,Positive,Answers the details mentioned in the questions
+152,822,822,Positive,Answers the details mentioned in the questions
+152,823,823,Positive,Answers the details mentioned in the questions
+152,824,824,Positive,Answers the details mentioned in the questions
+152,825,825,Positive,Answers the details mentioned in the questions
+152,826,826,Positive,Answers the details mentioned in the questions
+152,827,827,Positive,Answers the details mentioned in the questions
+152,828,828,Positive,Answers the details mentioned in the questions
+152,829,829,Positive,Answers the details mentioned in the questions
+152,830,830,Positive,Answers the details mentioned in the questions
+153,791,791,Positive,Answers the details mentioned in the questions
+153,792,792,Positive,Answers the details mentioned in the questions
+153,793,793,Positive,Answers the details mentioned in the questions
+153,794,794,Positive,Answers the details mentioned in the questions
+153,795,795,Positive,Answers the details mentioned in the questions
+153,796,796,Positive,Answers the details mentioned in the questions
+153,797,797,Positive,Answers the details mentioned in the questions
+153,798,798,Positive,Answers the details mentioned in the questions
+153,799,799,Positive,Answers the details mentioned in the questions
+153,800,800,Positive,Answers the details mentioned in the questions
+154,801,801,Positive,Answers the details mentioned in the questions
+154,802,802,Positive,Answers the details mentioned in the questions
+154,803,803,Positive,Answers the details mentioned in the questions
+154,804,804,Positive,Answers the details mentioned in the questions
+154,805,805,Positive,Answers the details mentioned in the questions
+154,806,806,Positive,Answers the details mentioned in the questions
+154,807,807,Positive,Answers the details mentioned in the questions
+154,808,808,Positive,Answers the details mentioned in the questions
+154,809,809,Positive,Answers the details mentioned in the questions
+154,810,810,Positive,Answers the details mentioned in the questions
+155,811,811,Positive,Answers the details mentioned in the questions
+155,812,812,Positive,Answers the details mentioned in the questions
+155,813,813,Positive,Answers the details mentioned in the questions
+155,814,814,Positive,Answers the details mentioned in the questions
+155,815,815,Positive,Answers the details mentioned in the questions
+155,816,816,Positive,Answers the details mentioned in the questions
+155,817,817,Positive,Answers the details mentioned in the questions
+155,818,818,Positive,Answers the details mentioned in the questions
+155,819,819,Positive,Answers the details mentioned in the questions
+155,820,820,Positive,Answers the details mentioned in the questions
+156,821,821,Positive,Answers the details mentioned in the questions
+156,822,822,Positive,Answers the details mentioned in the questions
+156,823,823,Positive,Answers the details mentioned in the questions
+156,824,824,Positive,Answers the details mentioned in the questions
+156,825,825,Positive,Answers the details mentioned in the questions
+156,826,826,Positive,Answers the details mentioned in the questions
+156,827,827,Positive,Answers the details mentioned in the questions
+156,828,828,Positive,Answers the details mentioned in the questions
+156,829,829,Positive,Answers the details mentioned in the questions
+156,830,830,Positive,Answers the details mentioned in the questions
+157,791,791,Positive,Answers the details mentioned in the questions
+157,792,792,Positive,Answers the details mentioned in the questions
+157,793,793,Positive,Answers the details mentioned in the questions
+157,794,794,Positive,Answers the details mentioned in the questions
+157,795,795,Positive,Answers the details mentioned in the questions
+157,796,796,Positive,Answers the details mentioned in the questions
+157,797,797,Positive,Answers the details mentioned in the questions
+157,798,798,Positive,Answers the details mentioned in the questions
+157,799,799,Positive,Answers the details mentioned in the questions
+157,800,800,Positive,Answers the details mentioned in the questions
+158,801,801,Positive,Answers the details mentioned in the questions
+158,802,802,Positive,Answers the details mentioned in the questions
+158,803,803,Positive,Answers the details mentioned in the questions
+158,804,804,Positive,Answers the details mentioned in the questions
+158,805,805,Positive,Answers the details mentioned in the questions
+158,806,806,Positive,Answers the details mentioned in the questions
+158,807,807,Positive,Answers the details mentioned in the questions
+158,808,808,Positive,Answers the details mentioned in the questions
+158,809,809,Positive,Answers the details mentioned in the questions
+158,810,810,Positive,Answers the details mentioned in the questions
+159,811,811,Positive,Answers the details mentioned in the questions
+159,812,812,Positive,Answers the details mentioned in the questions
+159,813,813,Positive,Answers the details mentioned in the questions
+159,814,814,Positive,Answers the details mentioned in the questions
+159,815,815,Positive,Answers the details mentioned in the questions
+159,816,816,Positive,Answers the details mentioned in the questions
+159,817,817,Positive,Answers the details mentioned in the questions
+159,818,818,Positive,Answers the details mentioned in the questions
+159,819,819,Positive,Answers the details mentioned in the questions
+159,820,820,Positive,Answers the details mentioned in the questions
+160,821,821,Positive,Answers the details mentioned in the questions
+160,822,822,Positive,Answers the details mentioned in the questions
+160,823,823,Positive,Answers the details mentioned in the questions
+160,824,824,Positive,Answers the details mentioned in the questions
+160,825,825,Positive,Answers the details mentioned in the questions
+160,826,826,Positive,Answers the details mentioned in the questions
+160,827,827,Positive,Answers the details mentioned in the questions
+160,828,828,Positive,Answers the details mentioned in the questions
+160,829,829,Positive,Answers the details mentioned in the questions
+160,830,830,Positive,Answers the details mentioned in the questions
+251,1201,1201,Positive,Contains details pertaining to the query
+251,1202,1202,Positive,Contains details pertaining to the query
+251,1203,1203,Positive,Contains details pertaining to the query
+251,1204,1204,Positive,Contains details pertaining to the query
+251,1205,1205,Positive,Contains details pertaining to the query
+251,1206,1206,Positive,Contains details pertaining to the query
+251,1207,1207,Positive,Contains details pertaining to the query
+251,1208,1208,Positive,Contains details pertaining to the query
+251,1209,1209,Positive,Contains details pertaining to the query
+251,1210,1210,Positive,Contains details pertaining to the query
+252,1211,1211,Positive,Contains details pertaining to the query
+252,1212,1212,Positive,Contains details pertaining to the query
+252,1213,1213,Positive,Contains details pertaining to the query
+252,1214,1214,Positive,Contains details pertaining to the query
+252,1215,1215,Positive,Contains details pertaining to the query
+252,1216,1216,Positive,Contains details pertaining to the query
+252,1217,1217,Positive,Contains details pertaining to the query
+252,1218,1218,Positive,Contains details pertaining to the query
+252,1219,1219,Positive,Contains details pertaining to the query
+252,1220,1220,Positive,Contains details pertaining to the query
+253,1221,1221,Positive,Contains details pertaining to the query
+253,1222,1222,Positive,Contains details pertaining to the query
+253,1223,1223,Positive,Contains details pertaining to the query
+253,1224,1224,Positive,Contains details pertaining to the query
+253,1225,1225,Positive,Contains details pertaining to the query
+253,1226,1226,Positive,Contains details pertaining to the query
+253,1227,1227,Positive,Contains details pertaining to the query
+253,1228,1228,Positive,Contains details pertaining to the query
+253,1229,1229,Positive,Contains details pertaining to the query
+253,1230,1230,Positive,Contains details pertaining to the query
+254,1231,1231,Positive,Contains details pertaining to the query
+254,1232,1232,Positive,Contains details pertaining to the query
+254,1233,1233,Positive,Contains details pertaining to the query
+254,1234,1234,Positive,Contains details pertaining to the query
+254,1235,1235,Positive,Contains details pertaining to the query
+254,1236,1236,Positive,Contains details pertaining to the query
+254,1237,1237,Positive,Contains details pertaining to the query
+254,1238,1238,Positive,Contains details pertaining to the query
+254,1239,1239,Positive,Contains details pertaining to the query
+254,1240,1240,Positive,Contains details pertaining to the query
+255,1201,1201,Positive,Contains details pertaining to the query
+255,1202,1202,Positive,Contains details pertaining to the query
+255,1203,1203,Positive,Contains details pertaining to the query
+255,1204,1204,Positive,Contains details pertaining to the query
+255,1205,1205,Positive,Contains details pertaining to the query
+255,1206,1206,Positive,Contains details pertaining to the query
+255,1207,1207,Positive,Contains details pertaining to the query
+255,1208,1208,Positive,Contains details pertaining to the query
+255,1209,1209,Positive,Contains details pertaining to the query
+255,1210,1210,Positive,Contains details pertaining to the query
+256,1211,1211,Positive,Contains details pertaining to the query
+256,1212,1212,Positive,Contains details pertaining to the query
+256,1213,1213,Positive,Contains details pertaining to the query
+256,1214,1214,Positive,Contains details pertaining to the query
+256,1215,1215,Positive,Contains details pertaining to the query
+256,1216,1216,Positive,Contains details pertaining to the query
+256,1217,1217,Positive,Contains details pertaining to the query
+256,1218,1218,Positive,Contains details pertaining to the query
+256,1219,1219,Positive,Contains details pertaining to the query
+256,1220,1220,Positive,Contains details pertaining to the query
+257,1221,1221,Positive,Contains details pertaining to the query
+257,1222,1222,Positive,Contains details pertaining to the query
+257,1223,1223,Positive,Contains details pertaining to the query
+257,1224,1224,Positive,Contains details pertaining to the query
+257,1225,1225,Positive,Contains details pertaining to the query
+257,1226,1226,Positive,Contains details pertaining to the query
+257,1227,1227,Positive,Contains details pertaining to the query
+257,1228,1228,Positive,Contains details pertaining to the query
+257,1229,1229,Positive,Contains details pertaining to the query
+257,1230,1230,Positive,Contains details pertaining to the query
+258,1231,1231,Positive,Contains details pertaining to the query
+258,1232,1232,Positive,Contains details pertaining to the query
+258,1233,1233,Positive,Contains details pertaining to the query
+258,1234,1234,Positive,Contains details pertaining to the query
+258,1235,1235,Positive,Contains details pertaining to the query
+258,1236,1236,Positive,Contains details pertaining to the query
+258,1237,1237,Positive,Contains details pertaining to the query
+258,1238,1238,Positive,Contains details pertaining to the query
+258,1239,1239,Positive,Contains details pertaining to the query
+258,1240,1240,Positive,Contains details pertaining to the query
+259,1201,1201,Positive,Contains details pertaining to the query
+259,1202,1202,Positive,Contains details pertaining to the query
+259,1203,1203,Positive,Contains details pertaining to the query
+259,1204,1204,Positive,Contains details pertaining to the query
+259,1205,1205,Positive,Contains details pertaining to the query
+259,1206,1206,Positive,Contains details pertaining to the query
+259,1207,1207,Positive,Contains details pertaining to the query
+259,1208,1208,Positive,Contains details pertaining to the query
+259,1209,1209,Positive,Contains details pertaining to the query
+259,1210,1210,Positive,Contains details pertaining to the query
+260,1201,1201,Positive,Contains details pertaining to the query
+260,1202,1202,Positive,Contains details pertaining to the query
+260,1203,1203,Positive,Contains details pertaining to the query
+260,1204,1204,Positive,Contains details pertaining to the query
+260,1205,1205,Positive,Contains details pertaining to the query
+260,1206,1206,Positive,Contains details pertaining to the query
+260,1207,1207,Positive,Contains details pertaining to the query
+260,1208,1208,Positive,Contains details pertaining to the query
+260,1209,1209,Positive,Contains details pertaining to the query
+260,1210,1210,Positive,Contains details pertaining to the query
+261,1211,1211,Positive,Contains details pertaining to the query
+261,1212,1212,Positive,Contains details pertaining to the query
+261,1213,1213,Positive,Contains details pertaining to the query
+261,1214,1214,Positive,Contains details pertaining to the query
+261,1215,1215,Positive,Contains details pertaining to the query
+261,1216,1216,Positive,Contains details pertaining to the query
+261,1217,1217,Positive,Contains details pertaining to the query
+261,1218,1218,Positive,Contains details pertaining to the query
+261,1219,1219,Positive,Contains details pertaining to the query
+261,1220,1220,Positive,Contains details pertaining to the query
+262,1211,1211,Positive,Contains details pertaining to the query
+262,1212,1212,Positive,Contains details pertaining to the query
+262,1213,1213,Positive,Contains details pertaining to the query
+262,1214,1214,Positive,Contains details pertaining to the query
+262,1215,1215,Positive,Contains details pertaining to the query
+262,1216,1216,Positive,Contains details pertaining to the query
+262,1217,1217,Positive,Contains details pertaining to the query
+262,1218,1218,Positive,Contains details pertaining to the query
+262,1219,1219,Positive,Contains details pertaining to the query
+262,1220,1220,Positive,Contains details pertaining to the query
+263,1221,1221,Positive,Contains details pertaining to the query
+263,1222,1222,Positive,Contains details pertaining to the query
+263,1223,1223,Positive,Contains details pertaining to the query
+263,1224,1224,Positive,Contains details pertaining to the query
+263,1225,1225,Positive,Contains details pertaining to the query
+263,1226,1226,Positive,Contains details pertaining to the query
+263,1227,1227,Positive,Contains details pertaining to the query
+263,1228,1228,Positive,Contains details pertaining to the query
+263,1229,1229,Positive,Contains details pertaining to the query
+263,1230,1230,Positive,Contains details pertaining to the query
+264,1221,1221,Positive,Contains details pertaining to the query
+264,1222,1222,Positive,Contains details pertaining to the query
+264,1223,1223,Positive,Contains details pertaining to the query
+264,1224,1224,Positive,Contains details pertaining to the query
+264,1225,1225,Positive,Contains details pertaining to the query
+264,1226,1226,Positive,Contains details pertaining to the query
+264,1227,1227,Positive,Contains details pertaining to the query
+264,1228,1228,Positive,Contains details pertaining to the query
+264,1229,1229,Positive,Contains details pertaining to the query
+264,1230,1230,Positive,Contains details pertaining to the query
+265,1231,1231,Positive,Contains details pertaining to the query
+265,1232,1232,Positive,Contains details pertaining to the query
+265,1233,1233,Positive,Contains details pertaining to the query
+265,1234,1234,Positive,Contains details pertaining to the query
+265,1235,1235,Positive,Contains details pertaining to the query
+265,1236,1236,Positive,Contains details pertaining to the query
+265,1237,1237,Positive,Contains details pertaining to the query
+265,1238,1238,Positive,Contains details pertaining to the query
+265,1239,1239,Positive,Contains details pertaining to the query
+265,1240,1240,Positive,Contains details pertaining to the query
+266,1231,1231,Positive,Contains details pertaining to the query
+266,1232,1232,Positive,Contains details pertaining to the query
+266,1233,1233,Positive,Contains details pertaining to the query
+266,1234,1234,Positive,Contains details pertaining to the query
+266,1235,1235,Positive,Contains details pertaining to the query
+266,1236,1236,Positive,Contains details pertaining to the query
+266,1237,1237,Positive,Contains details pertaining to the query
+266,1238,1238,Positive,Contains details pertaining to the query
+266,1239,1239,Positive,Contains details pertaining to the query
+266,1240,1240,Positive,Contains details pertaining to the query
+267,1201,1201,Positive,Contains details pertaining to the query
+267,1202,1202,Positive,Contains details pertaining to the query
+267,1203,1203,Positive,Contains details pertaining to the query
+267,1204,1204,Positive,Contains details pertaining to the query
+267,1205,1205,Positive,Contains details pertaining to the query
+267,1206,1206,Positive,Contains details pertaining to the query
+267,1207,1207,Positive,Contains details pertaining to the query
+267,1208,1208,Positive,Contains details pertaining to the query
+267,1209,1209,Positive,Contains details pertaining to the query
+267,1210,1210,Positive,Contains details pertaining to the query
+268,1211,1211,Positive,Contains details pertaining to the query
+268,1212,1212,Positive,Contains details pertaining to the query
+268,1213,1213,Positive,Contains details pertaining to the query
+268,1214,1214,Positive,Contains details pertaining to the query
+268,1215,1215,Positive,Contains details pertaining to the query
+268,1216,1216,Positive,Contains details pertaining to the query
+268,1217,1217,Positive,Contains details pertaining to the query
+268,1218,1218,Positive,Contains details pertaining to the query
+268,1219,1219,Positive,Contains details pertaining to the query
+268,1220,1220,Positive,Contains details pertaining to the query
+269,1221,1221,Positive,Contains details pertaining to the query
+269,1222,1222,Positive,Contains details pertaining to the query
+269,1223,1223,Positive,Contains details pertaining to the query
+269,1224,1224,Positive,Contains details pertaining to the query
+269,1225,1225,Positive,Contains details pertaining to the query
+269,1226,1226,Positive,Contains details pertaining to the query
+269,1227,1227,Positive,Contains details pertaining to the query
+269,1228,1228,Positive,Contains details pertaining to the query
+269,1229,1229,Positive,Contains details pertaining to the query
+269,1230,1230,Positive,Contains details pertaining to the query
+270,1231,1231,Positive,Contains details pertaining to the query
+270,1232,1232,Positive,Contains details pertaining to the query
+270,1233,1233,Positive,Contains details pertaining to the query
+270,1234,1234,Positive,Contains details pertaining to the query
+270,1235,1235,Positive,Contains details pertaining to the query
+270,1236,1236,Positive,Contains details pertaining to the query
+270,1237,1237,Positive,Contains details pertaining to the query
+270,1238,1238,Positive,Contains details pertaining to the query
+270,1239,1239,Positive,Contains details pertaining to the query
+270,1240,1240,Positive,Contains details pertaining to the query

@@ -1,0 +1,13 @@
+Symptoms of malaria overlap considerably with symptoms of Ebola, which may result in misclassification of malaria as Ebola and Ebola as malaria. Malaria continues to be a life-threatening disease in the countries with Ebola, and the risk of malaria-associated morbidity and mortality in these countries is now made greater because of the reduction in healthcare services and access to those services. Increases in malaria morbidity, mortality, and transmission may worsen the current public health crisis. Symptoms of malaria and Ebola are non-specific and have considerable overlap. A treatment dose of an artemisinin combination therapy (ACT) will provide approximately 2 to 3 weeks of post-treatment chemoprophylaxis against malaria, protecting the patient from malaria illness and malarial fevers during that time period. This will potentially reduce the workload on the health system.A patient can be infected at the same time with both malaria and Ebola. Any person suffering or having suffered from a sudden onset of high fever and having had contact with a suspected, probable, or confirmed Ebola case;
+OR: any person with sudden onset of high fever and at least three of the following symptoms:
+	•	headaches
+	•	vomiting
+	•	anorexia / loss of appetite
+	•	diarrhea
+	•	lethargy
+	•	stomach pain
+	•	aching muscles or joints
+	•	difficulty swallowing
+	•	breathing difficulties
+	•	hiccups
+OR: any person with inexplicable bleeding

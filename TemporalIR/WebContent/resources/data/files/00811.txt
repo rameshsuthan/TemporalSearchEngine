@@ -1,0 +1,200 @@
+ © 2004 page 1 of 3
+Typhus Fever –
+Rickettsia 
+prowazekii 
+Epidemic Typhus, 
+Louse-Borne Typhus Fever, 
+Typhus Exanthematicus, 
+Classical Typhus Fever, 
+European Typhus, 
+Brill-Zinsser Disease, 
+Jail Fever 
+ 
+Last Updated: January 2004 
+ 
+ 
+ 
+ 
+ 
+Etiology 
+Epidemic typhus results from infection by Rickettsia prowazekii, a Gram 
+negative, obligate intracellular bacterium. At least two strains can be distinguished by 
+genetic analysis. One strain is found only in humans; the other also occurs in flying 
+squirrels in the United States. 
+Geographic Distribution 
+R. prowazekii has been found worldwide. Foci of disease currently exist in many 
+countries in Asia, central and east Africa, and the mountainous regions of Mexico, 
+Central and South America. War and famine can result in explosive outbreaks of 
+disease. 
+In the United States, R. prowazekii is endemic in flying squirrels. This form is 
+zoonotic; sporadic human cases have been seen in Georgia, Virginia, West Virginia, 
+North Carolina, Tennessee, Indiana, Illinois, Ohio, Pennsylvania, Maryland, 
+Massachusetts, New Jersey, New York, and California. 
+Transmission 
+Transmission of epidemic typhus occurs by arthropod vectors. The primary 
+vector in person–to–person transmission is the human body louse (Pediculus humanus 
+corporis). Lice become infected when they feed on the blood of infected patients; the 
+lice defecate when they feed on a new host, excreting R. prowazekii in the feces. 
+Transmission occurs when organisms in the louse feces or crushed lice are rubbed 
+into the bite wound or other breaks in the skin. The rickettsia are also infectious by 
+inhalation or contact with the mucous membranes of the mouth and eyes. In most 
+parts of the world, humans are the only reservoir host for R. prowazekii. Infections 
+can become latent and later recrudesce; humans with recrudescent typhus are capable 
+of infecting lice and spreading the disease. 
+In the United States, flying squirrels also serve as a reservoir host. Infections are 
+spread between squirrels by squirrel lice (Neohaematopinus scuiropteri), particularly 
+during the winter when populations are concentrated in nests. N. scuiropteri does not 
+feed on humans, but squirrel fleas (Orchopeas howardi) and other mammalian fleas 
+are susceptible and may be important in spreading the disease to humans. Inhalation 
+of organisms in infected louse feces or contact with squirrels may also be routes of 
+transmission. 
+Lice infected with R. prowazekii excrete organisms in the feces after 2 to 6 days 
+and die prematurely within 2 weeks. Bacteria can survive in the feces and the dead 
+lice for weeks. 
+Disinfection 
+R. prowazekii is susceptible to 1% sodium hypochlorite, 70% ethanol, 
+glutaraldehyde, and formaldehyde. It can also be inactivated by moist heat (121° C 
+for a minimum of 15 min) and dry heat (160–170° C for a minimum of an hour). 
+Infections in Humans 
+Incubation Period 
+The incubation period is 1 to 2 weeks; most infections become evident after 12 
+days. 
+Clinical Signs 
+The onset of epidemic typhus is often sudden. The initial symptoms may include 
+headache, chills, fever, prostration and myalgia. In approximately 50% of cases, a 
+rash develops after 4 to 6 days. Small pink macules usually appear first on the upper 
+trunk or axillae then spread to the entire body with the exception of the face, palms 
+and soles. As the disease progresses, the rash usually becomes dark and 
+maculopapular or, in severe cases, petechial and hemorrhagic. Splenomegaly, 
+hypotension, nausea, vomiting and confusion may also be seen. The fever lasts 
+approximately 2 weeks. In seriously ill with gangrene, and symptoms of 
+ Typhus Fever – Rickettsia prowazekii
+Last Updated: January 2004 © 2004 page 2 of 3
+encephalitis or pneumonia may occur. Children and people 
+with partial immunity can have a mild infection with no 
+rash. 
+R. prowazekii sometimes remains latent and 
+recrudesces years later; this form is called Brill–Zinsser 
+disease. Recrudescent typhus is usually mild, with lower 
+mortality rates. 
+The symptoms of the zoonotic form resemble classic 
+typhus but are almost always mild. The fever usually lasts 
+for 7 to 10 days and the rash is often barely visible or 
+absent. Deaths are not seen with this form. 
+Communicability 
+R. prowazekii is not transmitted from person to person. 
+Patients can infect lice while the fever is present and may 
+continue to be infectious for another 2 to 3 days. Patients 
+with Brill–Zinsser disease are also infectious for lice. 
+Diagnostic Tests 
+Epidemic typhus is usually diagnosed by serology; a 
+fourfold rise in titer is diagnostic. Titers usually become 
+detectable during the second week. Serologic tests include 
+the indirect fluorescence antibody test, latex agglutination, 
+complement fixation, enzyme immunoassay (EIA) and the 
+toxin–neutralization test. R. prowazekii may cross–react 
+with R. typhi (the agent of murine typhus) in some tests. 
+Organisms can also be identified in tissue samples, 
+including skin biopsies, by immunohistochemical staining. 
+Polymerase chain reaction (PCR) assays may be available 
+in some laboratories. Isolation and identification of R. 
+prowazekii is not widely available or used for diagnosis, as 
+rickettsia are both fastidious and dangerous to laboratory 
+personnel. 
+Treatment and Vaccination 
+Early treatment with antibiotics is effective and 
+relapses are uncommon. Treatment is sometimes begun 
+before laboratory confirmation, particularly when the 
+symptoms are severe. Antibiotics can also speed recovery 
+in patients with the zoonotic form. No commercial vaccines 
+have been licensed, but experimental vaccines are produced 
+by military sources in the United States and may be 
+available for high–risk situations. 
+Residual insecticide treatment of the clothing and hair 
+is recommended for people who may have been exposed to 
+infected lice. 
+Morbidity and Mortality 
+Epidemics of typhus usually occur where louse 
+populations are high. Infections are typically seen in 
+populations living in unsanitary, crowded conditions; 
+outbreaks are often associated with wars, famines, floods, 
+and other disasters. Most epidemics occur during the colder 
+months. Sporadic cases of zoonotic typhus are seen in the 
+United States. 
+The overall case fatality rate for untreated infections is 
+10 to 40%; the mortality rate increases with age. Infections 
+are rarely fatal in children less than 10 years old; in people 
+over 50 years old, the mortality rate can be as high as 60% 
+without treatment. Deaths have not been seen in the 
+zoonotic form, regardless of treatment. 
+Infections in Animals 
+In the United States, R. prowazekii is endemic in flying 
+squirrels (Glaucomys volans). Infections can be transmitted 
+to humans from this species but little has been published 
+about the disease in squirrels. Dogs have been 
+experimentally infected but seroconverted with no clinical 
+signs; no organisms were recovered from the blood. 
+Internet Resources 
+Centers for Disease Control and Prevention (CDC) 
+http://www.cdc.gov/travel/diseases/typhus.htm 
+Epidemic Typhus Associated with Flying Squirrels– United 
+States - Morbidity and Mortality Weekly Report 
+http://www.cdc.gov/mmwr/preview/mmwrhtml/00001
+177.htm 
+Material Safety Data Sheets – Canadian Laboratory Center 
+for Disease Control 
+http://www.hc–sc.gc.ca/pphb–dgspsp/msds–
+ftss/index.html#menu 
+Medical Microbiology 
+http://www.ncbi.nlm.nih.gov/books/NBK7627 
+Rickettsial Pathogens and their Arthropod Vectors 
+Emerging Infectious Diseases 
+http://www.cfsresearch.org/rickettsia/other/9nf.htm 
+The Merck Manual 
+http://www.merck.com/pubs/mmanual/ 
+Surveillance and Reporting Guidelines for Typhus 
+Washington State Department of Health 
+http://www.doh.wa.gov/notify/guidelines/typhus.htm 
+Typhus and Flying Squirrels - Southeastern Cooperative 
+Wildlife Disease Study (SCWDS) Briefs 
+http://www.uga.edu/scwds/topic_index/1999/Typhusan
+dFlyingSquirrels.pdf 
+References 
+Azad A.F. and C.B. Beard. “Rickettsial pathogens and their 
+arthropod vectors.” Emerging Infectious Diseases 4, no. 2 
+(Apr–Jun 1998). 4 Dec 2002. 
+http://www.cfsresearch.org/rickettsia/other/9nf.htm. 
+Breitschwerdt E.B., B.C. Hegarty, M. G. Davidson and N.S.A. 
+Szabados. “Evaluation of the pathogenic potential of 
+Rickettsia canada and Rickettsia prowazekii organisms in 
+dogs.” J. Am. Vet. Med. Assoc. 207, no. 1 (Jul 1995):58–63. Typhus Fever – Rickettsia prowazekii
+Last Updated: January 2004 © 2004 page 3 of 3
+“Epidemic typhus.” In The Merck Manual, 17th ed. Edited by 
+M.H. Beers and R. Berkow. Whitehouse Station, NJ: Merck 
+and Co., 1999. 4 Dec 2002. 
+http://www.merck.com/pubs/mmanual/section13/chapter159/1
+59b.htm. 
+“Epidemic typhus associated with flying squirrels –– United States.” 
+Morbidity and Mortality Weekly Report 31, no. 41 (Oct 22, 
+1982): 555–6;561. 4 Dec 2002. 
+http://www.cdc.gov/mmwr/preview/mmwrhtml/00001177.htm. 
+Huffman J. and V. Nettles. “Typhus and flying squirrels.” 
+Southeastern Cooperative Wildlife Disease Study (SCWDS) 
+Briefs, October 1999, 15.3. 3 December 2002. 
+http://www.uga.edu/scwds/topic_index/1999/TyphusandFlyin
+gSquirrels.pdf. 
+“Material Safety Data Sheet – Rickettsia prowazekii.” January 
+2001 Canadian Laboratory Centre for Disease Control. 4 Dec 
+2002. http://www.hc–sc.gc.ca/pphb–dgspsp/msds–
+ftss/msds128e.html. 
+“Surveillance and reporting guidelines for typhus.” Washington 
+State Department of Health, Oct 2002. 4 December 2002. 
+http://www.doh.wa.gov/notify/guidelines/typhus.htm. 
+“Typhus Fevers.” Centers for Disease Control and Prevention, Feb 
+2002. 4 December 2002. 
+http://www.cdc.gov/travel/diseases/typhus.htm. 
+Walker, D.H. “Rickettsiae.” In Medical Microbiology. 4th ed. 
+Edited by Samuel Baron. New York; Churchill Livingstone, 
+1996. 4 Dec 2002. 
+http://www.gsbs.utmb.edu/microbook/ch038.htm. 
+ 

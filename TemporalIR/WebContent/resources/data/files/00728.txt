@@ -1,0 +1,15 @@
+INTRODUCTION
+
+Scrub typhus is a mite-borne infectious disease caused by Orientia tsutsugamushi (previously called Rickettsia tsutsugamushi). It is distributed throughout the Asia Pacific rim, being endemic in Korea, China, Taiwan, Japan, Pakistan, India, Thailand, Malaysia, and northern portions of Australia. However, cases also occur in the United States, Canada, and Europe, being imported by tourists returning from endemic regions.
+
+Scrub typhus is manifested clinically by high fever, intense generalized headache, diffuse myalgias, and, in many patients, rash and an eschar at the site of the chigger bite. The diagnosis is suggested by the clinical history (including visit to an endemic area) and physical findings and confirmed by serologic testing or biopsy of an eschar. (See "Scrub typhus: Clinical features and diagnosis".)
+
+COURSE
+
+Scrub typhus lasts for 14 to 21 days without treatment. Severe infections may be complicated by interstitial pneumonia, pulmonary edema, congestive heart failure, circulatory collapse, and a wide array of signs and symptoms of central nervous system dysfunction, including delirium, confusion, and seizures. Death may occur as a result of these complications, usually late in the second week of the illness.
+
+By contrast, patients treated with appropriate antibiotics typically become afebrile within 48 hours of starting therapy [1]. This response to treatment may be useful diagnostically; failure of defervescence within 48 hours is often considered evidence that scrub typhus is not present, and that an alternate diagnosis such as malaria or dengue should be considered. However, in a 2004 report, 20 of 93 patients with serologically confirmed scrub typhus had a delay in defervescence to more than 48 hours, making the reliability of this long-standing clinical truism suspect [2]. The authors of another report retrospectively examined the clinical characteristics of 18 patients with Q fever (9), scrub typhus (7) or murine typhus (2) who failed to respond within 48 hours to treatment with doxycycline and compared their clinical features to 88 cases who responded promptly. Delayed defervescence was associated with jaundice and relative bradycardia [3].
+
+TREATMENT
+
+Chloramphenicol was the first drug shown to be effective in the treatment of scrub typhus, and is still commonly used in endemic regions. Doses of 250 to 500 mg orally or intravenously every six hours are effective. However, doxycycline (100 mg orally or intravenously twice daily) is now the drug of choice for this illness. Azithromycin has been advocated as an alternative agent in special circumstances.

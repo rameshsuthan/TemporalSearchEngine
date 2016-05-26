@@ -1,0 +1,97 @@
+Murine Typhus 
+
+by Rachel Bass
+
+Disease Etiology:
+
+Murine [myoor-ahyn, -in] refers to the Muridae or family of rodents, e.g. rats and mice, and typhus [tahy-fuhs] pertains to the state of acute infectious disease that is caused by various species of the bacterial genus Rickettsia. Therefore, Murine typhus is caused by the species Rickettsia typhi, and being parasitic, can only reproduce inside a living eukaryotic cell. [1][2][3] 
+
+Means of Transmission:
+
+R. typhi, which causes Murine (endemic) typhus, is transmitted to the mammalian host via fleas that live mainly on rats, rat feces, as well as exposure to other animals such as opossums, raccoons, skunks and cats. Rickettsiae are spread through the feces of fleas resulting in human infection when contact is made with the skin, respiratory tract, or conjunctiva. [2] While biting its host, the infected flea defecates allowing the Rickettsia, which is carried in the feces, to enter the host via the bite wound or from scratching the wound area. [4]
+
+Usual Reservoirs:
+
+The natural reservoirs of R. typhi are rats and their fleas, particularly the oriental flea.  However, the fleas carried by cats and opossums have been associated with spreading Murine typhus as well. [2] 
+
+General Characteristics
+
+R. typhi is classified as aerobic, Gram-negative coccobacilli bacteria; however, it is smaller than Gram-negative bacilli (0.3 μm by 1.0 μm). It is an obligate intracellular parasite of eukaryotic cells and may dwell inside the nucleus or cytoplasm of the cell it invades. It lacks flagella and has a typical Gram-negative cell wall. [2][3]
+
+Key Tests for Identification:
+
+To establish a diagnosis of Murine typhus, a serological indirect fluorescent antibody test is used to detect antibodies to R. typhi. [7] Also, a complete blood count is taken and may show: anemia, low platelets, low sodium levels, low level of albumin, slightly high liver enzymes, and mild kidney failure. [5]
+
+Signs and Symptoms:
+
+Murine typhus has an incubation period of 6 to 14 days and signs and symptoms include:
+
+·         Headache
+·         Abdominal pain
+·         Nausea
+·         Vomiting
+·         Backache
+·         Body aches
+·         Fever
+·         Diarrhea
+·         Joint and muscle pain
+·         Hacking, dry cough
+·         Extremely high fever (105-106 degrees Fahrenheit), that can last up to 2 weeks
+·         Rash that starts on trunk and spreads to legs and arms
+
+The disease might persist for several months if left untreated. [4][5]
+
+Historical Information:
+
+Among the first recorded incidents of typhus (most likely epidemic typhus) described a disease that caused delirium, rashes, sores and around 17,000 deaths during the Spanish siege of Granada in 1489. It was later called gaol or “jail fever”, since 25% of English prisoners were dying from it per year by 1759. In 1760, the disease earned the name typhus (from the Greek for smoke or stupor) due to the delirium it would cause. Typhus ravaged Europe for centuries. It has been attributed to over 3 million deaths during and after World War I and raged on through World War II. Not until the early 20th century did Howard Ricketts discover the causative agent and was able to culture it in laboratory animals. Soon following, the importance of arthropod vectors was made and vector control methods were implemented to help control the disease. [8][7]
+
+As for endemic typhus, the rise in cases might be due to recognizing and correctly diagnosing the disease more often in the United States. [8]
+
+Virulence Mechanisms:
+
+Rickettsiae enter through the skin then spread through the bloodstream where they attach to and infect the vascular endothelial cell membranes in the skin, gastrointestinal tract, liver, kidneys, lungs, heart, brain, and other organs, by induced phagocytosis. Replication of the bacteria occurs until the host cell lysis, with the help of phospholipase activity, releasing massive amounts of the organism to infect other cells. The pathologic effects seem to be from the destruction of the endothelial cells, due to lysing, which results in the leakage of blood and resulting organ and tissue damage. There is loss of intravascular fluid into tissue spaces resulting in such conditions as encephalitis, pneumonitis and hemorrhagic rash. [2][7]
+
+ Control/Treatment:
+
+Murine typhus is successfully treated using antibiotics such as Doxycycline, Tetracycline or Chloramphenicol. [2] Some patients might require intravenous fluids and oxygen as well. [5]
+
+Prevention/ Vaccines:
+
+There is no vaccine for R.typhi. The best way to prevent a Murine typhus infection is to control the vector and reservoir hosts, e.g. rodents and their fleas by:
+
+·         Keeping your grass mowed.
+·         Keeping brush and trash picked up and firewood off the ground.
+·         Sealing up you home in order to keep rodents out.
+·         Clean your home and yard to prevent attracting rodents, opossums, and other stray animals.
+·         Do not attract other animals by leaving pet food out at night.
+·         Control fleas by regularly treating your pets, home and yard.[2][4]
+
+ Current Local and Cases/Outbreaks:
+
+Most recent records show an outbreak in Austin TX, in 2008. By December, there were 53 reported cases resulting in: no attributed deaths, 73% patients hospitalized with 27% admitted to intensive care units, and 51% were prescribed antibiotics. Most patients were clustered in central Austin and only 6% noted having flea bites or exposure to fleas two weeks before onset of illness.  Exposure to opossums and rats were 18% and 15% respectively. [9]
+
+Current Global Cases/Outbreaks:
+
+Murine typhus is prevalent in countries with warm climates, especially in port areas and in areas with high rat populations. [2] Currently, cases in the United States are sporadic concentrating in southern Texas, southern California, and Hawaii.[9]
+
+References:
+
+ [1] "murine." Dictionary.com Unabridged. Random House, Inc. 17 Feb. 2012. <Dictionary.com http://dictionary.reference.com/browse/murine>. 02/17/12
+
+"Rickettsia." Dictionary.com Unabridged. Random House, Inc. 17 Feb. 2012. <Dictionary.com http://dictionary.reference.com/browse/Rickettsia>. 02/17/12
+ 
+[2] National Center for Biotechnology Information. David H. Walker. “Murine Typhus” Medical Microbiology. 4th edition. 1996. http://www.ncbi.nlm.nih.gov/books/NBK7624/#top  02/26/12
+
+[3] Todar’s Online Textbook of Bacteriology. Kenneth Todar, PhD. “Rickettsial Diseases, including Typhus and Rocky Mountain Spotted Fever”. February 16, 2012 http://textbookofbacteriology.net/Rickettsia.html  02/26/12
+
+[4] Texas Department of State Health Services. Anon. “Information on Murine Typhus (Fleaborne Typhus)”. Last updated March 23, 2011. http://www.dshs.state.tx.us/idcu/disease/murine_typhus/information/  02/26/12
+
+[5] Medline Plus. A.D.A.M. Editorial Team: David Zieve, MD, MHA, and David R. Eltz. “Typhus”. 03/18/11. http://www.nlm.nih.gov/medlineplus/ency/article/001363.htm  02/26/12
+
+[6] Center for Disease Control. Eremeeva ME, Warashina WR, Sturgeon MM, Buchholz AE, Olmsted GK, Park SY, et al. “Rickettsia typhi and R. felis in rat fleas (Xenopsylla cheopis), Oahu, Hawaii.”10/2008. http://wwwnc.cdc.gov/eid/article/14/10/08-0571_article.htm#suggestedcitation 02/26/12
+
+[7] University of South Carolina School of Medicine: Microbiology and Immunology Online. Dr. Gene Mayer. “Bacteriology – Chapter One: Rickettsiae, Orientia, Enrlichia, Anaplasma, Coxiella and Bartonella”. 04/15/2010. http://pathmicro.med.sc.edu/mayer/ricketsia.htm   2/26/12
+
+[8] MedicineNet.com. “What is the history of typhus?”  Charles Patrick Davis, MD, PhD. (date of publication not given). http://www.medicinenet.com/typhus/page3.htm#history  02/26/12
+
+[9] Center for Disease Control. Anon. “Outbreak of Rickettsia typhi Infection --- Austin, Texas, 2008”. 11/20/09. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5845a4.htm 02/26/12

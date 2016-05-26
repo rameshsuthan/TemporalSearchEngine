@@ -1,0 +1,64 @@
+Choosing a Drug to Prevent Malaria
+Considerations when choosing a drug for malaria prophylaxis:
+Recommendations for drugs to prevent malaria differ by country of travel and can be found in the country-specific tables of the Yellow Book. Recommended drugs for each country are listed in alphabetical order and have comparable efficacy in that country.
+No antimalarial drug is 100% protective and must be combined with the use of personal protective measures, (i.e., insect repellent, long sleeves, long pants, sleeping in a mosquito-free setting or using an insecticide-treated bednet).
+For all medicines, also consider the possibility of drug-drug interactions with other medicines that the person might be taking as well as other medical contraindications, such as drug allergies.
+When several different drugs are recommended for an area, the following table might help in the decision process.
+
+Drug	Reasons that might make you consider using this drug	Reasons that might make you avoid using this drug
+Atovaquone/Proguanil (Malarone)	
+Good for last-minute travelers because the drug is started 1-2 days before traveling to an area where malaria transmission occurs
+Some people prefer to take a daily medicine
+Good choice for shorter trips because you only have to take the medicine for 7 days after traveling rather than 4 weeks
+Very well tolerated medicine – side effects uncommon
+Pediatric tablets are available and may be more convenient
+Cannot be used by women who are pregnant or breastfeeding a child less than 5 kg
+Cannot be taken by people with severe renal impairment
+Tends to be more expensive than some of the other options (especially for trips of long duration)
+Some people (including children) would rather not take a medicine every day
+Chloroquine	
+Some people would rather take medicine weekly
+Good choice for long trips because it is taken only weekly
+Some people are already taking hydroxychloroquine chronically for rheumatologic conditions. In those instances, they may not have to take an additional medicine
+Can be used in all trimesters of pregnancy
+Cannot be used in areas with chloroquine or mefloquine resistance
+May exacerbate psoriasis
+Some people would rather not take a weekly medication
+For trips of short duration, some people would rather not take medication for 4 weeks after travel
+Not a good choice for last-minute travelers because drug needs to be started 1-2 weeks prior to travel
+Doxycycline	
+Some people prefer to take a daily medicine
+Good for last-minute travelers because the drug is started 1-2 days before traveling to an area where malaria transmission occurs
+Tends to be the least expensive antimalarial
+Some people are already taking doxycycline chronically for prevention of acne. In those instances, they do not have to take an additional medicine
+Doxycycline also can prevent some additional infections (e.g., Rickettsiae and leptospirosis) and so it may be preferred by people planning to do lots of hiking, camping, and wading and swimming in fresh water
+Cannot be used by pregnant women and children <8 years old
+Some people would rather not take a medicine every day
+For trips of short duration, some people would rather not take medication for 4 weeks after travel
+Women prone to getting vaginal yeast infections when taking antibiotics may prefer taking a different medicine
+Persons planning on considerable sun exposure may want to avoid the increased risk of sun sensitivity
+Some people are concerned about the potential of getting an upset stomach from doxycycline
+Mefloquine
+(Lariam)	
+Some people would rather take medicine weekly
+Good choice for long trips because it is taken only weekly
+Can be used during pregnancy
+Cannot be used in areas with mefloquine resistance
+Cannot be used in patients with certain psychiatric conditions
+Cannot be used in patients with a seizure disorder
+Not recommended for persons with cardiac conduction abnormalities
+Not a good choice for last-minute travelers because drug needs to be started at least 2 weeks prior to travel
+Some people would rather not take a weekly medication
+For trips of short duration, some people would rather not take medication for 4 weeks after travel
+Primaquine	
+It is the most effective medicine for preventing P. vivax and so it is a good choice for travel to places with > 90% P. vivax
+Good choice for shorter trips because you only have to take the medicine for 7 days after traveling rather than 4 weeks
+Good for last-minute travelers because the drug is started 1-2 days before traveling to an area where malaria transmission occurs
+Some people prefer to take a daily medicine
+Cannot be used in patients with glucose-6-phosphatase dehydrogenase (G6PD) deficiency
+Cannot be used in patients who have not been tested for G6PD deficiency
+There are costs and delays associated with getting a G6PD test done; however, it only has to be done once. Once a normal G6PD level is verified and documented, the test does not have to be repeated the next time primaquine is considered
+Cannot be used by pregnant women
+Cannot be used by women who are breastfeeding unless the infant has also been tested for G6PD deficiency
+Some people (including children) would rather not take a medicine every day
+Some people are concerned about the potential of getting an upset stomach from primaquine

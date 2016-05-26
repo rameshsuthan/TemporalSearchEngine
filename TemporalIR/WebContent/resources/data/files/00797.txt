@@ -1,0 +1,38 @@
+
+EBOLA	 8:04 AM OCT 24, 2014
+
+Is 21 Days Long Enough For Ebola Quarantine?
+
+By CARL BIALIK
+
+In Dallas this week, 43 people who came in contact with Thomas Eric Duncan after he contracted Ebola were released after 21 days of quarantine. In Madrid, people who were exposed to an infected nurse could be released from isolation soon if they get through 21 days without showing symptoms. The paramedics who brought Craig Spencer, the New Yorker diagnosed with Ebola this week, to the hospital will have their temperatures taken twice a day for 21 days.
+
+Why 21 days? And is 21 days enough?
+
+Both the Centers for Disease Control and Prevention and the World Health Organization say Ebola’s incubation period is two to 21 days. That means anyone who hasn’t gotten the disease 21 days after last exposure should be in the clear. And three weeks surely feels like a long time to the people who are quarantined; The New York Times headlined its story about the experience “21 Days of Fear and Loathing.”
+
+But Charles N. Haas, an environmental engineer who models human risk of illness at Drexel University, isn’t sure 21 days is enough. He published a paper last week in the journal PLOS Currents reporting that as many as one in eight people who get Ebola don’t get sick until after 21 days. In the current outbreak, the number is one in 20, according to a report published by WHO researchers last week.
+
+“This work suggests a reconsideration is in order and that 21 days may not be sufficiently protective to public health,” Haas wrote. His paper made headlines and helped spur Rep. Tulsi Gabbard, a Hawaii Democrat, to call on the CDC to extend the quarantine time to 42 days.
+
+The disagreement shows how much we are still learning about a disease that, before this year’s outbreak, had fewer than 3,000 known cases spread over nearly four decades. And it shows how much harder it can be to rule out a diagnosis than to rule one in.
+
+Clouding the debate is the existence of three important time frames. Ebola’s incubation period is the gap between exposure to the virus and the onset of symptoms — typically stated as two to 21 days, but with some evidence it could be longer. Three weeks is typically how long people believed to be exposed to Ebola are kept in quarantine and monitored for symptoms. Then there’s the time a country must go without a new case of Ebola before WHO declares it Ebola-free: 42 days.
+
+WHO is sticking to its guidelines. “The incubation is still 21 days,” spokesman Tarik Jasarevic said in an email. Nigeria and Senegal had to wait twice as long before officially ending their outbreaks “just to be extra certain,” Jasarevic said.1
+
+Nearly all the data on incubation periods comes from outbreaks in Africa, where the vast majority of Ebola cases have originated. Researchers gather data, typically by interviewing people who have come down with the disease to determine when they were exposed.
+
+Haas ran that data through models created by other scientists to convert the raw counts of days into a probability curve. He showed that each data-model pair paints a slightly different picture of how long the virus can lie dormant in the body before making its carrier sick. The models broadly agree that the average case emerges in much less time than 21 days; the average time is somewhere between three and 13 days. That can translate into big disagreements about the tail end of the distribution: Anywhere from 0.1 percent to 12 percent of people got sick more than 21 days after exposure, by Haas’s calculations.
+
+But did they really? Outliers could arise simply because sick people forgot when they were exposed. “I think there is some recall bias or respondent bias,” Gerardo Chowell, an associate professor at Arizona State University’s School of Human Evolution and Social Change, said in a Skype interview. “When you are in the field, people forget things. People don’t know exactly where they were when.” He pointed out that there are plenty of problems with data collected during an outbreak.2
+
+Chowell’s studies of incubation times in earlier Ebola outbreaks in Congo and Uganda, cited in the Haas paper, show short incubation times, and he thinks the true maximum period may be less than 21 days. “That said, I think the policy of 21 days is good,” Chowell said. “I don’t think we need to change that or extend it.”
+
+Haas doubts recall bias alone could explain cases with incubation periods longer than 21 days. He points out that some analyses didn’t use interviews at all, instead extrapolating incubation times from other data.
+
+Plenty of other factors could explain the variability in incubation times. The data from prior outbreaks covers different strains. Each exposure differs in severity. Also, “Factors like genetics and the size of the initial exposure would probably account for some of the variability in when a person becomes sick,” Benjamin William Neuman, a virologist at the University of Reading in the U.K., said in an email.
+
+The big practical question is whether three weeks is long enough to keep exposed people in isolation. It’s an uncomfortable and costly way to guard against a small chance of a horrific outcome — uncontrolled spread of the disease.
+
+In his paper, Haas produced the following chart to show, abstractly, the need to find a balancing point, and wrote, “The purpose of this paper is not to estimate where the balancing point should be.”

@@ -1,0 +1,5 @@
+malaria
+incubation period : 12 days or more depending on the type of malaria
+period of communicability: the patient will remain infectious for mosquitoes until they have been completly treated
+Isolation period : none if in mosquito proof accomodation
+quarantine period : none

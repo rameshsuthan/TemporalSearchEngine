@@ -1,0 +1,79 @@
+Victorian statutory requirement
+
+Cholera (Group A disease) must be notified immediately by telephone or fax followed by written notification within five days.
+
+Cholera is subject to Australian quarantine.
+
+Infectious agent
+
+Vibrio cholerae serogroups O1 or O139 cause cholera.
+
+Note
+Non-O1 Vibrios, formerly known as non-agglutinable Vibrios (NAG) or non-cholera Vibrios (NCV) are now included in the species Vibrio cholerae, but the reporting of Non-O1 or O139 infections as ‘cholera’ is inaccurate.
+
+Most non-O1/O139 strains do not secrete enterotoxin but can cause sporadic disease. The term non-Vibrio cholera (NVC) refers to cases of cholera-like illness caused by organisms other than the 01 or 0139 Vibrio species. These infections are not notifiable.
+
+Identification
+
+Clinical features
+Asymptomatic infection with V. cholerae is more frequent than clinical illness and bacteria may be present in faeces for 7–14 days. Mild cases of diarrhoea are common especially among children.
+
+In severe cases disease is characterised by a sudden onset of symptoms with profuse painless watery (rice water) stools, occasional vomiting, rapid dehydration, acidosis and circulatory collapse. In untreated cases, death may occur in a few hours and the case fatality rate may exceed 50%.
+
+Method of diagnosis
+The diagnosis is confirmed by the isolation of V. cholerae serogroup O1 or O139 from faeces. A presumptive diagnosis can be made by visualisation by dark field or phase microscopy of V. cholerae’s characteristic motility, specifically inhibited by preservative-free serotype-specific antiserum.
+
+Incubation period
+
+The incubation period is from a few hours to five days. It is usually two to three days.
+
+Public health significance & occurrence
+
+Cholera can occur in epidemics or pandemics. In any single epidemic one particular biovar tends to predominate. Endemic cholera occurs in parts of Africa, Central Europe and Asia. Cholera appears to be increasing worldwide in both the number of cases and their distribution. Only sporadic imported cases in returned travellers occur in Victoria. V. cholerae O1 is established in the riverine environment in some parts of Queensland and New South Wales however human disease is rare.
+
+Reservoir
+
+V. cholerae is often part of the normal flora of brackish water and estuaries and can be associated with algal blooms (plankton). Humans are one of the reservoirs of the pathogenic form of V. cholerae.
+
+Mode of transmission
+
+Transmission occurs through ingestion of contaminated water and food. Sudden large outbreaks are usually caused by a contaminated water supply. Direct person to person contact is rare.
+
+Period of communicability
+
+Persons are infectious during the acute stage and for a few days after recovery. By the end of the first week 70% of patients are non-infectious. By the end of the third week 98% are non-infectious. Occasionally the carrier state may persist for months and chronic biliary infection with intermittent shedding of organisms may last for years.
+
+Susceptibility & resistance
+
+Even in severe epidemics, clinically apparent disease rarely occurs in more than two per cent of those at risk. Gastric achlorhydria increases risk of disease. There is some evidence that breastfeeding reduces the risk of infection. Infection results in a rise in antibodies with increased resistance to reinfection. Infection with an O1 strain does not confer immunity against O139 strains and vice-versa.
+
+Control measures
+
+Preventive measures
+Travellers to endemic areas should be advised on careful food and water consumption and personal hygiene. Travellers to endemic areas should carry oral rehydration powder available from pharmacies which must be reconstituted with boiled or sterilised water.
+
+Cholera vaccine is a heat-killed suspension of the Inaba and Ogawa serotypes of V. cholerae O1. It provides partial protection (approximately 50%) for three to six months. It is not routinely recommended and advice to overseas travellers should emphasise careful selection of food and water rather than immunisation. Officially, cholera vaccination certificates are no longer required by any country or territory. Unofficially, some countries may still require such a certificate, in which case a single dose of cholera vaccine would satisfy this requirement.
+
+Control of case
+Cholera is subject to quarantine conditions under the Commonwealth Quarantine Act 1908.
+
+Prompt fluid therapy with adequate volumes of electrolyte solution such as Gastrolyte is critical as life-threatening dehydration may rapidly occur. This is usually all that is required for mild to moderate illness. Patients with severe dehydration require urgent intravenous fluid. Antimicrobial agents to which the strain is sensitive shorten the duration of diarrhoea and the duration of Vibrio excretion.
+
+Investigate possible sources of infection, particularly if there is no history of travel to an endemic region.
+
+Control of contacts
+Contacts should be observed for five days from the date of last exposure. This may include all fellow travellers of a case. Stool culture of any contacts with symptoms of diarrhoea and stool culture of all household contacts, even if asymptomatic, should be undertaken. Cases should also be looked for among those possibly exposed to a common source. Immunisation of contacts is not indicated.
+
+Control of environment
+Severely ill patients should be isolated in hospital, with standard precautions. Less severe cases can be managed at home. Disinfection of linen and articles used by the patient is required. Faeces and vomitus can be disposed of into the toilet without preliminary disinfection, except in areas with an inadequate sewage disposal system. Terminal cleaning of hospital rooms and equipment is required.
+In cases with no history of overseas travel, urgent investigation of potentially contaminated food and water supplies is indicated.
+
+Outbreak measures
+
+A single case of cholera in a person with a history of no overseas travel is considered an outbreak. Initiate a thorough investigation to determine the vehicle and circumstances of transmission and plan control measures accordingly. Educate the population at risk about the need to seek appropriate treatment without delay. Adopt emergency measures to assure a safe water supply. Ensure careful supervision of food and drink preparation.
+
+Immunisation of contacts is not indicated, even in the epidemic situation.
+
+International measures
+
+Reporting of cholera to the World Health Organization is mandatory under international health regulations. This will be done by the Department of Health through the Australian Government.

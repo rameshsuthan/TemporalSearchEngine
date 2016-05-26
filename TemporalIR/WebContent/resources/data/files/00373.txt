@@ -1,0 +1,6 @@
+Cholera
+Infectious agent
+Vibrio cholerae serogroups O1 or O139 cause cholera.
+Note Non-O1 Vibrios, formerly known as non-agglutinable Vibrios (NAG) or non-cholera Vibrios (NCV) are now included in the species Vibrio cholerae, but the reporting of Non-O1 or O139 infections as ‘cholera’ is inaccurate. Most non-O1/O139 strains do not secrete enterotoxin but can cause sporadic disease. The term non-Vibrio cholera (NVC) refers to cases of cholera-like illness caused by organisms other than the 01 or 0139 Vibrio species. These infections are not notifiable.
+Incubation period
+The incubation period is from a few hours to five days. It is usually two to three days.

@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:c="http://java.sun.com/jsp/jstl/core">
+<h:head>
+	<title>Temporal Retrieval System</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</h:head>
+<h:body>
+	<f:view>
+		<center>
+			<div class="bannerbg">
+
+				<img src="images/search.jpg.png" width="470" height="227" />
+
+				<h:form>
+					<h:inputText value="#{search.query}" styleClass="textbox"></h:inputText>
+					<br />
+					<h:outputLabel value="No of Results  ">
+						<h:selectOneMenu value="#{search.noOfResults}">
+							<f:selectItem itemValue="5" itemLabel="5" />
+							<f:selectItem itemValue="10" itemLabel="10" selected="true" />
+							<f:selectItem itemValue="15" itemLabel="15" />
+							<f:selectItem itemValue="20" itemLabel="20" />
+							<f:selectItem itemValue="25" itemLabel="25" />
+							<f:selectItem itemValue="30" itemLabel="30" />
+							<f:selectItem itemValue="50" itemLabel="50" />
+							<f:selectItem itemValue="100" itemLabel="100" />
+							<f:selectItem itemValue="200" itemLabel="200" />
+
+						</h:selectOneMenu>
+					</h:outputLabel>
+					<br />
+					<h:commandButton action="#{search.search}" value="Search"
+						styleClass="b1"></h:commandButton>
+				</h:form>
+				<br /> <br />
+			</div>
+			<div style="width: 760px">
+				<h:panelGroup rendered="#{not empty search.searchResultList}">
+					<p style="text-align: left;">
+						Found
+						<h:outputText value="#{search.noOfResults}"></h:outputText>
+						related documents...
+					</p>
+				</h:panelGroup>
+				<c:forEach var="result" items="#{search.searchResultList}">
+					<div class="features">
+						<div class="title clearfix">
+							<h3>
+								<span style="float: left">Doc id :&nbsp;</span><span
+									style="float: left;"> <h:outputText
+										value="#{result.fileName}"></h:outputText>
+								</span> <span style="float: right">Score : <h:outputText
+										value="#{result.score}">
+										<f:convertNumber pattern="#0.00" />
+									</h:outputText>
+								</span>
+							</h3>
+						</div>
+
+						<p style="text-align: justify;">
+							<h:outputText value="#{result.fileData}">
+							</h:outputText>
+						</p>
+					</div>
+				</c:forEach>
+			</div>
+		</center>
+	</f:view>
+</h:body>
+</html>

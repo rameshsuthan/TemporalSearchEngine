@@ -1,0 +1,3 @@
+Contacts are defined as people who had recognized exposure to an Ebola patient, blood, bodily fluids, specimens of an Ebola patient or potentially contaminated surfaces.
+
+Possible contacts are defined as people who had possible exposure to an Ebola patient, blood, body fluids, specimens of an Ebola patient or potentially contaminated surfaces.

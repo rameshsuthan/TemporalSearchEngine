@@ -1,0 +1,35 @@
+Four Rings of Prevention
+To reduce the threat from malaria to individuals on the island, we developed an integrated program to address the different aspects of disease transmission. This is encapsulated in the four prevention rings shown in Figure 2, with the aim of reducing the risk of local transmission of malaria to a negligible level where chemoprophylaxis can be removed and training can continue without substantial risk for malaria infections. These comprise the following measures.
+
+Figure 2.
+Figure 2.
+The four rings of prevention of the malaria control program on Tekong Island.
+Prevent importation.
+
+A restriction period was imposed on all visitors to the island who had visited malaria endemic areas over the past 8 weeks (the long end of the average incubation period for malaria). All foreign workers who work on construction projects on the island would also be screened for malaria using reverse transcription-polymerase chain reaction (RT-PCR) after the quarantine period. In addition, any military serviceman with fever of unknown origin would be screened using real-time fluorescence-based RT-PCR for malaria parasites performed by a certified laboratory, DSO National Laboratories (Singapore). Positive cases were referred for clinical management and prevented from entry to the island.
+
+Early detection of human cases.
+
+All servicemen and medical staff on the island and military camps in Singapore were educated on malaria and the need for early reporting of symptoms. Cases of fever (≥ 37.5°C) with no localizing symptoms were tested for malaria and other common vector-borne diseases in Singapore, and all confirmed malaria cases were temporarily removed from the island.
+
+Mosquito control program.
+
+The vector-control program consists of environmental works to reduce mosquito breeding habitats and an intense insecticide regimen. Malaria vectors in Singapore were previously identified as Anopheles sundaicus and Anopheles maculates.9 Anopheles sinensis has also recently been suspected to be a vector. Their respective habitats, marshland with brackish water, streams in hilly areas, and small pools, were thus specially targeted.
+
+Systematic environmental and infrastructural improvements were made to reduce breeding sites. They include shoreline works to reduce the mixing of salt and fresh water, improvements to drainage around built-up areas to reduce water pooling, maintenance of drains, including clearance of vegetation and undergrowth to allow accessibility across the island, and filling up pools of water. Clearance of vegetation and undergrowth was maintained on a 3-monthly cycle to prevent rapid re-growth in a jungle habitat. Residents were also encouraged to reduce mosquito breeding habitats within the built-up areas through education programs.
+
+Insecticide use targeted mosquito larvae through the use of Bacillus thuringiensis israelensis (Bti) larvicide by ultra-low volume mist fogging. Bacillus thuringiensis israelensis has been shown to be effective in sustained reduction of mosquito populations in the control of malaria.10–12 This strategy used a combination of vehicle-mounted ultra-low volume mist-foggers for treatment of large areas along roads/tracks, and man-packed mist-foggers for reaching deep forested areas inaccessible to vehicles. Before the application of Bti, conventional fogging using a combination of s-bioallethrin, permethrin, and piperonyl butoxide (Resigen, Bayer Cropscience, Kuala Lumpur, Malaysia) and cypermethrin (New Cyper, Agrolex Agrochemicals Manufacturing, Jiangsu, China) was done daily for 3 consecutive days to reduce the adult mosquito population. Bacillus thuringiensis israelensis was then administered across the island covering 200 g per acre of the entire island at least four times per month. Handheld Global positional systems (GPS) were used to ensure systematic coverage of the entire island. In addition, indoor residual spraying with alphacypermethrin 1.5 sc (Fendona, BASF, Malaysia) or Resigen was applied by mist blowers in the existing buildings to reduce exposure of the resident population to mosquitoes.
+
+Personal protection.
+
+Existing personal protection measures were continued to prevent mosquito-to-human transmission. These included the use of bed nets, pre-treatment of uniforms with permethrin, and application of N,N-Diethyl-meta-toluamide (DEET) insect repellent regularly during jungle training.
+
+Malaria contingency plan.
+
+A response plan involving multiple agencies was developed in the event of an outbreak of malaria (defined as a single case of malaria on the island) despite the previous measures. In addition to routine clinical management, this plan comprised active surveillance for malaria cases and intensified vector surveillance. This was done in conjunction with the DSO National Laboratories, tertiary hospitals in Singapore, the Ministry of Health (MOH), and the National Environment Agency (NEA).
+
+Go to:
+Mosquito Surveillance
+To monitor the outcomes of reduction potential mosquito vectors, which are most likely anthropophillic and anthrozoophillic, human bare leg catch was conducted by a commercial pest control contractor without any soldiers being involved. A systematic surveillance at 60 fixed sites across the island was conducted on a weekly basis using 20 men from 1800 to 0700 hrs the following day, from November 2006 to April 2007. This was reduced to fortnightly intervals from April 2007, and the number of sites was then reduced to 40 from June 2007 when the initial vector-control target of 90% reduction was achieved. Ovitraps were also placed in 50 fixed sites and any immatures (ova or larvae) found in the trap would classify the trap as positive for breeding.
+
+This operational program, including use of the human bait method for collection of mosquitoes, was approved by the Singapore Armed Forces Medical Review Committee. The program cost about SGD1 million per year (1 SGD = US$0.664 in 2007).

@@ -1,0 +1,3 @@
+NAME: Vibrio cholerae, serogroup O1, serogroup O139 (Bengal)
+SYNONYM OR CROSS REFERENCE: Cholera
+INCUBATION PERIOD: The incubation period can range from a few hours to 5 days after infection.

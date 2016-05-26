@@ -1,0 +1,7 @@
+
+Disease	between	and	period
+Cellulitis caused by Pasteurella multocida	0	1	days[2]
+Chicken pox	14	16	days[3]
+Cholera	0.5	4.5	days[4]
+Erythema infectiosum (Fifth disease)	13	18	days[5]
+Influenza	1	3	days[6]

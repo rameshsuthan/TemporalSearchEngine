@@ -1,0 +1,57 @@
+Understand Quarantine and Isolation: Questions & Answers
+When someone is known to be ill with a contagious disease, they are placed in isolation and receive special care, with precautions taken to protect uninfected people from exposure to the disease.
+
+When someone has been exposed to a contagious disease and it is not yet known if they have caught it, they may be quarantined or separated from others who have not been exposed to the disease. For example, they may be asked to remain at home to prevent further potential spread of the illness. They also receive special care and observation for any early signs of the illness.
+
+How long can quarantine and isolation last? What is done to help the people who experience isolation or quarantine?
+The list of diseases for which quarantine or isolation is authorized is specified in an Executive Order of the President. This list currently includes cholera, diphtheria, infectious tuberculosis, plague, smallpox, yellow fever, viral hemorrhagic fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named), Severe Acute Respiratory Syndrome (SARS), and influenza caused by novel or reemergent influenza viruses that are causing, or have the potential to cause, a pandemic.
+
+Isolation
+
+Isolation would last for the period of communicability of the illness, which varies by disease and the availability of specific treatment. Usually it occurs at a hospital or other health care facility or in the person's home. Typically, the ill person will have his or her own room and those who care for him or her will wear protective clothing and take other precautions, depending on the level of personal protection needed for the specific illness.
+
+In most cases, isolation is voluntary; however, federal, state and local governments have the authority to require isolation of sick people to protect the public.
+
+Quarantine
+
+Modern quarantine lasts only as long as necessary to protect the public by (1) providing public health care (such as immunization or drug treatment, as required) and (2) ensuring that quarantined persons do not infect others if they have been exposed to a contagious disease.
+
+Modern quarantine is more likely to involve limited numbers of exposed persons in small areas than to involve large numbers of persons in whole neighborhoods or cities.
+
+Quarantined individuals will be sheltered, fed, and cared for at home, in a designated emergency facility, or in a specialized hospital, depending on the disease and the available resources. They will also be among the first to receive all available medical interventions to prevent and control disease, including:
+
+Vaccination.
+Antibiotics.
+Early and rapid diagnostic testing and symptom monitoring.
+Early treatment if symptoms appear.
+The duration and scope of quarantine measures would vary, depending on their purpose and what is known about the incubation period (how long it takes for symptoms to develop after exposure) of the disease-causing agent.
+
+Examples
+
+A few hours for assessment. Passengers on airplanes, trains or boats believed to be infected with or exposed to a dangerous contagious disease might be delayed for a few hours while health authorities determine the risk they pose to public health. Some passengers may be asked to provide contact information and then released while others who are ill are transported to where they can receive medical attention. There have been a few instances where state and local public health authorities have imposed a brief quarantine at a public gathering, such as a shelter, while investigating if one or more people may be ill.
+
+Enough time to provide preventive treatment or other intervention. If public health authorities determine that a passenger or passengers on airplanes, trains or boats are sick with a dangerous contagious disease, the other passengers may be quarantined in a designated facility where they may receive preventive treatment and have their health monitored.
+
+For the duration of the incubation period. If public health officials determine that one or more passenger on airplanes, trains or boats are infected with a contagious disease and that passengers sitting nearby may have had close contact with the infected passenger(s), those at risk might be quarantined in a designated facility, observed for signs of illness and cared for under isolation conditions if they become ill.
+
+When would quarantine and isolation be used and by whom?
+If people in a certain area were potentially exposed to a contagious disease, this is what would happen: State and local health authorities would let people know that they may have been exposed and would direct them to get medical attention, undergo diagnostic tests, and stay at home, limiting their contact with people who have not been exposed to the disease. Only rarely would federal, state, or local health authorities issue an "order" for quarantine and isolation.
+
+However, both quarantine and isolation may be compelled on a mandatory basis through legal authority as well as conducted on a voluntary basis.
+
+States have the authority to declare and enforce quarantine and isolation within their borders. This authority varies widely, depending on state laws. It derives from the authority of state governments granted by the U.S. Constitution to enact laws and promote regulations to safeguard the health and welfare of people within state borders.
+
+Further, at the national level, the CDC may detain, medically examine or conditionally release persons suspected of having certain contagious diseases. This authority applies to individuals arriving from foreign countries, including Canada and Mexico, on airplanes, trains, automobiles, boats or by foot. It also applies to individuals traveling from one state to another or in the event of "inadequate local control."
+
+The CDC regularly uses its authority to monitor passengers arriving in the United States for contagious diseases. In modern times, most quarantine measures have been imposed on a small scale, typically involving small numbers of travelers (airline or cruise ship passengers) who have curable diseases, such as infectious tuberculosis or cholera. No instances of large-scale quarantine have occurred in the U.S. since the "Spanish Flu" pandemic of 1918-1919.
+
+Based on years of experience working with state and local partners, the CDC anticipates that the need to use its federal authority to involuntarily quarantine a person would occur only in rare situations—for example, if a person posed a threat to public health and refused to cooperate with a voluntary request.
+
+Definitions
+For more information, see the CDC's "Fact Sheet on Legal Authorities for Isolation/Quarantine".
+
+Infectious disease: a disease caused by a microorganism and therefore potentially infinitely transferable to new individuals. May or may not be communicable. Example of non communicable is disease caused by toxins from food poisoning or infection caused by toxins in the environment, such as tetanus.
+
+Communicable disease: an infectious disease that is contagious and which can be transmitted from one source to another by infectious bacteria or viral organisms.
+
+Contagious disease: a very communicable disease capable of spreading rapidly from one person to another by contact or close proximity.

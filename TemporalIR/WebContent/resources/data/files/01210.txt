@@ -1,0 +1,1 @@
+Currently, the only way to diagnose Ebola is to send patient blood samples to a lab that can perform advanced techniques such as polymerase chain reaction (PCR), which can detect genetic material from the Ebola virus. This is very accurate but time-consuming, and some areas of Africa where Ebola and other fevers are endemic have limited access to this kind of technology.
