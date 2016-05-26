@@ -1,0 +1,47 @@
+body {
+  background-color:#ffffff;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+		text-decoration:underline;
+
+}
+.textbox { 
+    background: #FFF url(../images/glass.png) no-repeat 13px 8px; 
+    border: 1px solid #999; 
+    outline:0; 
+    padding-left: 35px;
+    height:30px; 
+    width: 500px; 
+  } 
+  
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+input.b1
+{
+	cursor:pointer; 
+	padding:5px 25px; 
+	background:#35b128;
+	border:1px solid #33842a; 
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+	-moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+	box-shadow: 0 0 4px rgba(0,0,0, .75);
+	color:#f3f3f3;
+	font-size:1.1em;
+}
+input#b1:hover, input#gobutton:focus
+{
+	background-color :#399630;
+	-webkit-box-shadow: 0 0 1px rgba(0,0,0, .75);
+	-moz-box-shadow: 0 0 1px rgba(0,0,0, .75);
+	box-shadow: 0 0 1px rgba(0,0,0, .75);
+}
